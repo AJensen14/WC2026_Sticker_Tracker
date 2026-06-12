@@ -1,0 +1,1220 @@
+card_id,card_description,association,card_type,nation,collected,duplicate,main_set,page_number
+LOGO,Panini Logo,We Are Panini,foil,NA,no,0,yes,1
+FWC1,Official Emblem,FIFA World Cup 2026,foil,NA,no,0,yes,1
+FWC2,Official Emblem,FIFA World Cup 2026,foil,NA,no,0,yes,1
+FWC3,Official Mascots,FIFA World Cup 2026,foil,NA,no,0,yes,1
+FWC4,Official Slogan,FIFA World Cup 2026,foil,NA,no,0,yes,1
+FWC5,Official Ball,FIFA World Cup 2026,foil,NA,no,0,yes,2
+FWC6,Canada,Host Countries and Cities,foil,NA,no,0,yes,2
+FWC7,Mexico,Host Countries and Cities,foil,NA,no,0,yes,2
+FWC8,USA,Host Countries and Cities,foil,NA,no,0,yes,2
+MEX1,Emblem,Mexico,foil,Mexico,no,0,yes,8
+MEX2,Luis Malagon,Mexico,-,Mexico,no,0,yes,8
+MEX3,Johan Vasquez,Mexico,-,Mexico,no,0,yes,8
+MEX4,Jorge Sanchez,Mexico,-,Mexico,yes,0,yes,8
+MEX5,Cesar Montes,Mexico,-,Mexico,no,0,yes,8
+MEX6,Jesus Gallardo,Mexico,-,Mexico,yes,0,yes,8
+MEX7,Israel Reyes,Mexico,-,Mexico,yes,0,yes,8
+MEX8,Diego Lainez,Mexico,-,Mexico,yes,0,yes,8
+MEX9,Carlos Rodriguez,Mexico,-,Mexico,no,0,yes,8
+MEX10,Edson Alvarez,Mexico,-,Mexico,no,0,yes,8
+MEX11,Orbelin Pineda,Mexico,-,Mexico,no,0,yes,8
+MEX12,Marcel Ruiz,Mexico,-,Mexico,no,0,yes,8
+MEX13,Team Photo,Mexico,-,Mexico,no,0,yes,8
+MEX14,Erick Sanchez,Mexico,-,Mexico,no,0,yes,8
+MEX15,Hirving Lozano,Mexico,-,Mexico,yes,0,yes,8
+MEX16,Santiago Gimenez,Mexico,-,Mexico,yes,0,yes,8
+MEX17,Raul Jimenez,Mexico,-,Mexico,no,0,yes,8
+MEX18,Alexis Vega,Mexico,-,Mexico,yes,0,yes,8
+MEX19,Roberto Alvarado,Mexico,-,Mexico,yes,0,yes,8
+MEX20,Cesar Huerta,Mexico,-,Mexico,no,0,yes,8
+RSA1,Emblem,South Africa,foil,South Africa,no,0,yes,10
+RSA2,Ronwen Williams,South Africa,-,South Africa,no,0,yes,10
+RSA3,Sipho Chaine,South Africa,-,South Africa,no,0,yes,10
+RSA4,Aubrey Modiba,South Africa,-,South Africa,no,0,yes,10
+RSA5,Samukele Kabini,South Africa,-,South Africa,no,0,yes,10
+RSA6,Mbekezeli Mbokazi,South Africa,-,South Africa,no,0,yes,10
+RSA7,Khulumani Ndamane,South Africa,-,South Africa,no,0,yes,10
+RSA8,Siyabonga Ngezana,South Africa,-,South Africa,no,0,yes,10
+RSA9,Khuliso Mudau,South Africa,-,South Africa,no,0,yes,10
+RSA10,Nkosinathi Sibisi,South Africa,-,South Africa,no,0,yes,10
+RSA11,Teboho Mokoena,South Africa,-,South Africa,no,0,yes,10
+RSA12,Thalente Mbatha,South Africa,-,South Africa,no,0,yes,10
+RSA13,Team Photo,South Africa,-,South Africa,no,0,yes,10
+RSA14,Bathusi Aubaas,South Africa,-,South Africa,no,0,yes,10
+RSA15,Yaya Sithole,South Africa,-,South Africa,no,0,yes,10
+RSA16,Sipho Mbule,South Africa,-,South Africa,no,0,yes,10
+RSA17,Lyle Foster,South Africa,-,South Africa,no,0,yes,10
+RSA18,Iqraam Rayners,South Africa,-,South Africa,no,0,yes,10
+RSA19,Mohau Nkota,South Africa,-,South Africa,no,0,yes,10
+RSA20,Oswin Appollis,South Africa,-,South Africa,no,0,yes,10
+KOR1,Emblem,South Korea,foil,South Korea,no,0,yes,12
+KOR2,Hyeon-woo Jo,South Korea,-,South Korea,no,0,yes,12
+KOR3,Seung-Gyu Kim,South Korea,-,South Korea,no,0,yes,12
+KOR4,Min-jae Kim,South Korea,-,South Korea,no,0,yes,12
+KOR5,Yu-min Cho,South Korea,-,South Korea,no,0,yes,12
+KOR6,Young-woo Seol,South Korea,-,South Korea,no,0,yes,12
+KOR7,Han-beom Lee,South Korea,-,South Korea,no,0,yes,12
+KOR8,Tae-seok Lee,South Korea,-,South Korea,no,0,yes,12
+KOR9,Myung-jae Lee,South Korea,-,South Korea,no,0,yes,12
+KOR10,Jae-sung Lee,South Korea,-,South Korea,no,0,yes,12
+KOR11,In-beom Hwang,South Korea,-,South Korea,no,0,yes,12
+KOR12,Kang-in Lee,South Korea,-,South Korea,no,0,yes,12
+KOR13,Team Photo,South Korea,-,South Korea,no,0,yes,12
+KOR14,Seung-ho Paik,South Korea,-,South Korea,no,0,yes,12
+KOR15,Jens Castrop,South Korea,-,South Korea,no,0,yes,12
+KOR16,Dongg-yeong Lee,South Korea,-,South Korea,no,0,yes,12
+KOR17,Gue-sung Cho,South Korea,-,South Korea,no,0,yes,12
+KOR18,Heung-min Son,South Korea,-,South Korea,no,0,yes,12
+KOR19,Hee-chan Hwang,South Korea,-,South Korea,no,0,yes,12
+KOR20,Hyeon-Gyu Oh,South Korea,-,South Korea,yes,0,yes,12
+CZE1,Emblem,Czechia,foil,Czechia,no,0,yes,14
+CZE2,Matej Kovar,Czechia,-,Czechia,no,0,yes,14
+CZE3,Jindrich Stanek,Czechia,-,Czechia,no,0,yes,14
+CZE4,Ladislav Krejci,Czechia,-,Czechia,no,0,yes,14
+CZE5,Vladimir Coufal,Czechia,-,Czechia,no,0,yes,14
+CZE6,Jaroslav Zeleny,Czechia,-,Czechia,no,0,yes,14
+CZE7,Tomas Holes,Czechia,-,Czechia,no,0,yes,14
+CZE8,David Zima,Czechia,-,Czechia,no,0,yes,14
+CZE9,Michal Sadilek,Czechia,-,Czechia,no,0,yes,14
+CZE10,Lukas Provod,Czechia,-,Czechia,yes,0,yes,14
+CZE11,Lukas Cerv,Czechia,-,Czechia,no,0,yes,14
+CZE12,Tomas Soucek,Czechia,-,Czechia,no,0,yes,14
+CZE13,Team Photo,Czechia,-,Czechia,no,0,yes,14
+CZE14,Pavel Sulc,Czechia,-,Czechia,no,0,yes,14
+CZE15,Matej Vydra,Czechia,-,Czechia,no,0,yes,14
+CZE16,Vasil Kusej,Czechia,-,Czechia,no,0,yes,14
+CZE17,Tomas Chory,Czechia,-,Czechia,no,0,yes,14
+CZE18,Vaclav Cerny,Czechia,-,Czechia,no,0,yes,14
+CZE19,Adam Hlozek,Czechia,-,Czechia,no,0,yes,14
+CZE20,Patrik Schick,Czechia,-,Czechia,no,0,yes,14
+CAN1,Emblem,Canada,foil,Canada,no,0,yes,16
+CAN2,Dayne St.Clair,Canada,-,Canada,no,0,yes,16
+CAN3,Alphonso Davies,Canada,-,Canada,no,0,yes,16
+CAN4,Alistair Johnston,Canada,-,Canada,no,0,yes,16
+CAN5,Samuel Adekugbe,Canada,-,Canada,no,0,yes,16
+CAN6,Richie Laryea,Canada,-,Canada,no,0,yes,16
+CAN7,Derek Cornelius,Canada,-,Canada,no,0,yes,16
+CAN8,Moise Bombito,Canada,-,Canada,no,0,yes,16
+CAN9,Kamal Miller,Canada,-,Canada,no,0,yes,16
+CAN10,Stephen Eustaquio,Canada,-,Canada,no,0,yes,16
+CAN11,Ismael Kone,Canada,-,Canada,no,0,yes,16
+CAN12,Jonathan Osorio,Canada,-,Canada,no,0,yes,16
+CAN13,Team Photo,Canada,-,Canada,no,0,yes,16
+CAN14,Jacob Shaffelburg,Canada,-,Canada,no,0,yes,16
+CAN15,Mathieu Choiniere,Canada,-,Canada,no,0,yes,16
+CAN16,Niko Sigur,Canada,-,Canada,no,0,yes,16
+CAN17,Tajon Buchanan,Canada,-,Canada,no,0,yes,16
+CAN18,Liam Millar,Canada,-,Canada,no,0,yes,16
+CAN19,Cyle Larin,Canada,-,Canada,no,0,yes,16
+CAN20,Jonathan David,Canada,-,Canada,no,0,yes,16
+BIH1,Emblem,Bosnia and Herzegovina,foil,Bosnia and Herzegovina,no,0,yes,18
+BIH2,Nikola Vasilj,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH3,Amer Dedic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH4,Sead Kolasinac,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH5,Tarik Muharemovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH6,Nihad Mujakic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH7,Nikola Katic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH8,Amir Hadziahmetovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH9,Benjamin Tahirovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH10,Armin Gigovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH11,Ivan Sunjic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH12,Ivan Basic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH13,Team Photo,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH14,Dzenis Burnic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH15,Esmir Bajraktarevic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH16,Amar Memic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH17,Ermedin Demirovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH18,Edin Dzeko,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH19,Samed Bazdar,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+BIH20,Haris Tabakovic,Bosnia and Herzegovina,-,Bosnia and Herzegovina,no,0,yes,18
+QAT1,Emblem,Qatar,foil,Qatar,no,0,yes,20
+QAT2,Meshaal Barsham,Qatar,-,Qatar,no,0,yes,20
+QAT3,Sultan Albrake,Qatar,-,Qatar,no,0,yes,20
+QAT4,Lucas Mendes,Qatar,-,Qatar,no,0,yes,20
+QAT5,Homam Ahmed,Qatar,-,Qatar,no,0,yes,20
+QAT6,Boualem Khoukhi,Qatar,-,Qatar,no,0,yes,20
+QAT7,Pedro Miguel,Qatar,-,Qatar,no,0,yes,20
+QAT8,Tarek Salman,Qatar,-,Qatar,no,0,yes,20
+QAT9,Mohamed Al-Mannai,Qatar,-,Qatar,no,0,yes,20
+QAT10,Karim Boudiaf,Qatar,-,Qatar,no,0,yes,20
+QAT11,Assim Madibo,Qatar,-,Qatar,no,0,yes,20
+QAT12,Ahmed Fatehi,Qatar,-,Qatar,no,0,yes,20
+QAT13,Team Photo,Qatar,-,Qatar,no,0,yes,20
+QAT14,Mohammed Waad,Qatar,-,Qatar,no,0,yes,20
+QAT15,Abdulaziz Hatem,Qatar,-,Qatar,no,0,yes,20
+QAT16,Hassan Al-Haydos,Qatar,-,Qatar,no,0,yes,20
+QAT17,Edmilson Junior,Qatar,-,Qatar,no,0,yes,20
+QAT18,Akram Hassan Afif,Qatar,-,Qatar,no,0,yes,20
+QAT19,Ahmed Al Ganehi,Qatar,-,Qatar,no,0,yes,20
+QAT20,Almoez Ali,Qatar,-,Qatar,no,0,yes,20
+SUI1,Emblem,Switzerland,foil,Switzerland,no,0,yes,22
+SUI2,Gregor Kobel,Switzerland,-,Switzerland,no,0,yes,22
+SUI3,Yvon Mvogo,Switzerland,-,Switzerland,no,0,yes,22
+SUI4,Manuel Akanji,Switzerland,-,Switzerland,no,0,yes,22
+SUI5,Ricardo Rodriguez,Switzerland,-,Switzerland,no,0,yes,22
+SUI6,Nico Elvedi,Switzerland,-,Switzerland,no,0,yes,22
+SUI7,Aurele Amenda,Switzerland,-,Switzerland,no,0,yes,22
+SUI8,Silvan Widmer,Switzerland,-,Switzerland,no,0,yes,22
+SUI9,Granit Xhaka,Switzerland,-,Switzerland,no,0,yes,22
+SUI10,Denis Zakaria,Switzerland,-,Switzerland,no,0,yes,22
+SUI11,Remo Freuler,Switzerland,-,Switzerland,no,0,yes,22
+SUI12,Fabian Rieder,Switzerland,-,Switzerland,no,0,yes,22
+SUI13,Team Photo,Switzerland,-,Switzerland,no,0,yes,22
+SUI14,Ardon Jashari,Switzerland,-,Switzerland,no,0,yes,22
+SUI15,Johan Manzambi,Switzerland,-,Switzerland,no,0,yes,22
+SUI16,Michel Aebischer,Switzerland,-,Switzerland,no,0,yes,22
+SUI17,Breel Embolo,Switzerland,-,Switzerland,no,0,yes,22
+SUI18,Ruben Vargas,Switzerland,-,Switzerland,no,0,yes,22
+SUI19,Dan Ndoye,Switzerland,-,Switzerland,no,0,yes,22
+SUI20,Zeki Amdouni,Switzerland,-,Switzerland,no,0,yes,22
+BRA1,Emblem,Brazil,foil,Brazil,no,0,yes,24
+BRA2,Alisson,Brazil,-,Brazil,no,0,yes,24
+BRA3,Bento,Brazil,-,Brazil,no,0,yes,24
+BRA4,Marquinhos,Brazil,-,Brazil,no,0,yes,24
+BRA5,Eder Militao,Brazil,-,Brazil,no,0,yes,24
+BRA6,Gabriel Magalhaes,Brazil,-,Brazil,no,0,yes,24
+BRA7,Danilo,Brazil,-,Brazil,no,0,yes,24
+BRA8,Wesley,Brazil,-,Brazil,no,0,yes,24
+BRA9,Lucas Paqueta,Brazil,-,Brazil,no,0,yes,24
+BRA10,Casemiro,Brazil,-,Brazil,no,0,yes,24
+BRA11,Bruno Guimaraes,Brazil,-,Brazil,no,0,yes,24
+BRA12,Luiz Henrique,Brazil,-,Brazil,no,0,yes,24
+BRA13,Team Photo,Brazil,-,Brazil,no,0,yes,24
+BRA14,Vinicius Junior,Brazil,-,Brazil,no,0,yes,24
+BRA15,Rodrygo,Brazil,-,Brazil,no,0,yes,24
+BRA16,Joao Pedro,Brazil,-,Brazil,no,0,yes,24
+BRA17,Matheus Cunha,Brazil,-,Brazil,no,0,yes,24
+BRA18,Gabriel Martinelli,Brazil,-,Brazil,no,0,yes,24
+BRA19,Raphinha,Brazil,-,Brazil,no,0,yes,24
+BRA20,Estevao,Brazil,-,Brazil,no,0,yes,24
+MOR1,Emblem,Morocco,foil,Morocco,no,0,yes,26
+MOR2,Yassine Bounou,Morocco,-,Morocco,no,0,yes,26
+MOR3,Munir El Kajoui,Morocco,-,Morocco,no,0,yes,26
+MOR4,Achraf Hakimi,Morocco,-,Morocco,no,0,yes,26
+MOR5,Noussair Mazraoui,Morocco,-,Morocco,no,0,yes,26
+MOR6,Nayef Aguerd,Morocco,-,Morocco,no,0,yes,26
+MOR7,Romain Saiss,Morocco,-,Morocco,no,0,yes,26
+MOR8,Jawad El Yamiq,Morocco,-,Morocco,no,0,yes,26
+MOR9,Adam Masina,Morocco,-,Morocco,no,0,yes,26
+MOR10,Sofyan Amrabat,Morocco,-,Morocco,no,0,yes,26
+MOR11,Azzedine Ounahi,Morocco,-,Morocco,no,0,yes,26
+MOR12,Eliesse Ben Seghir,Morocco,-,Morocco,no,0,yes,26
+MOR13,Team Photo,Morocco,-,Morocco,no,0,yes,26
+MOR14,Bilal El Khannouss,Morocco,-,Morocco,no,0,yes,26
+MOR15,Ismael Saibari,Morocco,-,Morocco,no,0,yes,26
+MOR16,Youssef En-Nesyri,Morocco,-,Morocco,no,0,yes,26
+MOR17,Abde Ezzalzouli,Morocco,-,Morocco,no,0,yes,26
+MOR18,Soufiane Rahimi,Morocco,-,Morocco,no,0,yes,26
+MOR19,Brahim Diaz,Morocco,-,Morocco,no,0,yes,26
+MOR20,Ayoub El Kaabi,Morocco,-,Morocco,no,0,yes,26
+HAI1,Emblem,Haiti,foil,Haiti,no,0,yes,28
+HAI2,Johny Placide,Haiti,-,Haiti,no,0,yes,28
+HAI3,Carlens Arcus,Haiti,-,Haiti,no,0,yes,28
+HAI4,Martin Experience,Haiti,-,Haiti,no,0,yes,28
+HAI5,Jean-Kevin Duverne,Haiti,-,Haiti,no,0,yes,28
+HAI6,Ricardo Ade,Haiti,-,Haiti,no,0,yes,28
+HAI7,Duke Lacroix,Haiti,-,Haiti,no,0,yes,28
+HAI8,Garven Metusala,Haiti,-,Haiti,no,0,yes,28
+HAI9,Hannes Delcroix,Haiti,-,Haiti,no,0,yes,28
+HAI10,Leverton Pierre,Haiti,-,Haiti,no,0,yes,28
+HAI11,Danley Jean Jacques,Haiti,-,Haiti,no,0,yes,28
+HAI12,Jean-Ricner Bellegarde,Haiti,-,Haiti,no,0,yes,28
+HAI13,Team Photo,Haiti,-,Haiti,no,0,yes,28
+HAI14,Christopher Attys,Haiti,-,Haiti,no,0,yes,28
+HAI15,Derrick Etienne Jr,Haiti,-,Haiti,no,0,yes,28
+HAI16,Josue Casimir,Haiti,-,Haiti,no,0,yes,28
+HAI17,Ruben Providence,Haiti,-,Haiti,no,0,yes,28
+HAI18,Duckens Nazon,Haiti,-,Haiti,no,0,yes,28
+HAI19,Louicius Deedson,Haiti,-,Haiti,no,0,yes,28
+HAI20,Frantzdy Pierrot,Haiti,-,Haiti,no,0,yes,28
+SCO1,Emblem,Scotland,foil,Scotland,no,0,yes,30
+SCO2,Angus Gunn,Scotland,-,Scotland,no,0,yes,30
+SCO3,Jack Hendry,Scotland,-,Scotland,no,0,yes,30
+SCO4,Kieran Tierney,Scotland,-,Scotland,no,0,yes,30
+SCO5,Aaron Hickey,Scotland,-,Scotland,no,0,yes,30
+SCO6,Andrew Robertson,Scotland,-,Scotland,no,0,yes,30
+SCO7,Scott McKenna,Scotland,-,Scotland,no,0,yes,30
+SCO8,John Souttar,Scotland,-,Scotland,no,0,yes,30
+SCO9,Anthony Ralston,Scotland,-,Scotland,no,0,yes,30
+SCO10,Grant Hanley,Scotland,-,Scotland,no,0,yes,30
+SCO11,Scott McTominay,Scotland,-,Scotland,no,0,yes,30
+SCO12,Billy Gilmour,Scotland,-,Scotland,no,0,yes,30
+SCO13,Team Photo,Scotland,-,Scotland,no,0,yes,30
+SCO14,Lewis Ferguson,Scotland,-,Scotland,no,0,yes,30
+SCO15,Ryan Christie,Scotland,-,Scotland,no,0,yes,30
+SCO16,Kenny McLean,Scotland,-,Scotland,no,0,yes,30
+SCO17,John McGinn,Scotland,-,Scotland,no,0,yes,30
+SCO18,Lyndon Dykes,Scotland,-,Scotland,no,0,yes,30
+SCO19,Che Adams,Scotland,-,Scotland,no,0,yes,30
+SCO20,Ben Gannon-Doak,Scotland,-,Scotland,no,0,yes,30
+USA1,Emblem,USA,foil,USA,no,0,yes,32
+USA2,Matt Freese,USA,-,USA,no,0,yes,32
+USA3,Chris Richards,USA,-,USA,no,0,yes,32
+USA4,Tim Ream,USA,-,USA,no,0,yes,32
+USA5,Mark McKenzie,USA,-,USA,no,0,yes,32
+USA6,Alex Freeman,USA,-,USA,no,0,yes,32
+USA7,Antonee Robinson,USA,-,USA,no,0,yes,32
+USA8,Tyler Adams,USA,-,USA,no,0,yes,32
+USA9,Tanner Tessmann,USA,-,USA,no,0,yes,32
+USA10,Weston McKenny,USA,-,USA,no,0,yes,32
+USA11,Christian Roldan,USA,-,USA,no,0,yes,32
+USA12,Timothy Weah,USA,-,USA,no,0,yes,32
+USA13,Team Photo,USA,-,USA,no,0,yes,32
+USA14,Diego Luna,USA,-,USA,no,0,yes,32
+USA15,Malik Tillman,USA,-,USA,no,0,yes,32
+USA16,Christian Pulisic,USA,-,USA,no,0,yes,32
+USA17,Brenden Aaronson,USA,-,USA,no,0,yes,32
+USA18,Ricardo Pepi,USA,-,USA,no,0,yes,32
+USA19,Haji Wright,USA,-,USA,no,0,yes,32
+USA20,Folarin Balogun,USA,-,USA,no,0,yes,32
+PAR1,Emblem,Paraguay,foil,Paraguay,no,0,yes,34
+PAR2,Roberto Fernandez,Paraguay,-,Paraguay,no,0,yes,34
+PAR3,Orlando Gill,Paraguay,-,Paraguay,no,0,yes,34
+PAR4,Gustavo Gomez,Paraguay,-,Paraguay,no,0,yes,34
+PAR5,Fabian Balbuena,Paraguay,-,Paraguay,no,0,yes,34
+PAR6,Juan Jose Caceres,Paraguay,-,Paraguay,no,0,yes,34
+PAR7,Omar Alderete,Paraguay,-,Paraguay,no,0,yes,34
+PAR8,Junior Alonso,Paraguay,-,Paraguay,no,0,yes,34
+PAR9,Mathias Villasanti,Paraguay,-,Paraguay,no,0,yes,34
+PAR10,Diego Gomez,Paraguay,-,Paraguay,no,0,yes,34
+PAR11,Damian Bobadilla,Paraguay,-,Paraguay,no,0,yes,34
+PAR12,Andres Cubas,Paraguay,-,Paraguay,no,0,yes,34
+PAR13,Team Photo,Paraguay,-,Paraguay,no,0,yes,34
+PAR14,Matias Galarza Fonda,Paraguay,-,Paraguay,no,0,yes,34
+PAR15,Julio Enciso,Paraguay,-,Paraguay,no,0,yes,34
+PAR16,Alejandro Romero Gamarra,Paraguay,-,Paraguay,no,0,yes,34
+PAR17,Miguel Almiron,Paraguay,-,Paraguay,no,0,yes,34
+PAR18,Ramon Sosa,Paraguay,-,Paraguay,no,0,yes,34
+PAR19,Angel Romero,Paraguay,-,Paraguay,no,0,yes,34
+PAR20,Antonio Sanabria,Paraguay,-,Paraguay,no,0,yes,34
+AUS1,Emblem,Australia,foil,Australia,no,0,yes,36
+AUS2,Mathew Ryan,Australia,-,Australia,no,0,yes,36
+AUS3,Joe Gauci,Australia,-,Australia,no,0,yes,36
+AUS4,Harry Souttar,Australia,-,Australia,no,0,yes,36
+AUS5,Alessandro Circati,Australia,-,Australia,no,0,yes,36
+AUS6,Jordan Bos,Australia,-,Australia,no,0,yes,36
+AUS7,Aziz Behich,Australia,-,Australia,no,0,yes,36
+AUS8,Cameron Burgess,Australia,-,Australia,no,0,yes,36
+AUS9,Lewis Miller,Australia,-,Australia,no,0,yes,36
+AUS10,Milos Degenek,Australia,-,Australia,no,0,yes,36
+AUS11,Jackson Irvine,Australia,-,Australia,no,0,yes,36
+AUS12,Riley McGree,Australia,-,Australia,no,0,yes,36
+AUS13,Team Photo,Australia,-,Australia,no,0,yes,36
+AUS14,Aiden O'Neill,Australia,-,Australia,no,0,yes,36
+AUS15,Connor Metcalfe,Australia,-,Australia,no,0,yes,36
+AUS16,Patrick Yazbek,Australia,-,Australia,no,0,yes,36
+AUS17,Craig Goodwin,Australia,-,Australia,no,0,yes,36
+AUS18,Kusini Yengi,Australia,-,Australia,no,0,yes,36
+AUS19,Nestory Irankunda,Australia,-,Australia,no,0,yes,36
+AUS20,Mohamed Toure,Australia,-,Australia,no,0,yes,36
+TUR1,Emblem,Türkiye,foil,Türkiye,no,0,yes,38
+TUR2,Ugurcan Cakir,Türkiye,-,Türkiye,no,0,yes,38
+TUR3,Mert Muldur,Türkiye,-,Türkiye,no,0,yes,38
+TUR4,Zeki Celik,Türkiye,-,Türkiye,no,0,yes,38
+TUR5,Abdulkerim Bardakci,Türkiye,-,Türkiye,no,0,yes,38
+TUR6,Caglar Soyuncu,Türkiye,-,Türkiye,no,0,yes,38
+TUR7,Merih Demiral,Türkiye,-,Türkiye,no,0,yes,38
+TUR8,Ferdi Kadioglu,Türkiye,-,Türkiye,no,0,yes,38
+TUR9,Kaan Ayhan,Türkiye,-,Türkiye,no,0,yes,38
+TUR10,Ismail Yuksek,Türkiye,-,Türkiye,no,0,yes,38
+TUR11,Hakan Calhanoglu,Türkiye,-,Türkiye,no,0,yes,38
+TUR12,Orkun Kokcu,Türkiye,-,Türkiye,no,0,yes,38
+TUR13,Team Photo,Türkiye,-,Türkiye,no,0,yes,38
+TUR14,Arda Guler,Türkiye,-,Türkiye,no,0,yes,38
+TUR15,Irfan Can Kahveci,Türkiye,-,Türkiye,no,0,yes,38
+TUR16,Yunus Akgun,Türkiye,-,Türkiye,no,0,yes,38
+TUR17,Can Uzun,Türkiye,-,Türkiye,no,0,yes,38
+TUR18,Baris Alper Yilmaz,Türkiye,-,Türkiye,no,0,yes,38
+TUR19,Kerem Akturkoglu,Türkiye,-,Türkiye,no,0,yes,38
+TUR20,Kenan Yildiz,Türkiye,-,Türkiye,no,0,yes,38
+GER1,Emblem,Germany,foil,Germany,no,0,yes,40
+GER2,Marc-Andre ter Stegen,Germany,-,Germany,no,0,yes,40
+GER3,Jonathan Tah,Germany,-,Germany,no,0,yes,40
+GER4,David Raum,Germany,-,Germany,no,0,yes,40
+GER5,Nico Schlotterbeck,Germany,-,Germany,no,0,yes,40
+GER6,Antonio Rudiger,Germany,-,Germany,no,0,yes,40
+GER7,Waldemar Anton,Germany,-,Germany,no,0,yes,40
+GER8,Ridle Baku,Germany,-,Germany,no,0,yes,40
+GER9,Maximilian Mittelstadt,Germany,-,Germany,no,0,yes,40
+GER10,Joshua Kimmich,Germany,-,Germany,no,0,yes,40
+GER11,Florian Wirtz,Germany,-,Germany,no,0,yes,40
+GER12,Felix Nmecha,Germany,-,Germany,no,0,yes,40
+GER13,Team Photo,Germany,-,Germany,no,0,yes,40
+GER14,Leon Goretzka,Germany,-,Germany,no,0,yes,40
+GER15,Jamal Musiala,Germany,-,Germany,no,0,yes,40
+GER16,Serge Gnabry,Germany,-,Germany,no,0,yes,40
+GER17,Kai Havertz,Germany,-,Germany,no,0,yes,40
+GER18,Leroy Sane,Germany,-,Germany,no,0,yes,40
+GER19,Karim Adeyemi,Germany,-,Germany,no,0,yes,40
+GER20,Nick Woltemade,Germany,-,Germany,no,0,yes,40
+GER2S,Marc-Andre ter Stegen,Germany,silver,Germany,no,0,NA,1
+GER3S,Jonathan Tah,Germany,silver,Germany,no,0,NA,1
+GER4S,David Raum,Germany,silver,Germany,no,0,NA,1
+GER5S,Nico Schlotterbeck,Germany,silver,Germany,no,0,NA,1
+GER6S,Antonio Rudiger,Germany,silver,Germany,no,0,NA,1
+GER7S,Waldemar Anton,Germany,silver,Germany,no,0,NA,1
+GER8S,Ridle Baku,Germany,silver,Germany,no,0,NA,1
+GER9S,Maximilian Mittelstadt,Germany,silver,Germany,no,0,NA,1
+GER10S,Joshua Kimmich,Germany,silver,Germany,no,0,NA,1
+GER11S,Florian Wirtz,Germany,silver,Germany,no,0,NA,1
+GER12S,Felix Nmecha,Germany,silver,Germany,no,0,NA,1
+GER14S,Leon Goretzka,Germany,silver,Germany,no,0,NA,1
+GER15S,Jamal Musiala,Germany,silver,Germany,no,0,NA,1
+GER16S,Serge Gnabry,Germany,silver,Germany,no,0,NA,1
+GER17S,Kai Havertz,Germany,silver,Germany,no,0,NA,1
+GER18S,Leroy Sane,Germany,silver,Germany,no,0,NA,1
+GER19S,Karim Adeyemi,Germany,silver,Germany,no,0,NA,1
+GER20S,Nick Woltemade,Germany,silver,Germany,no,0,NA,1
+CUW1,Emblem,Curaçao,foil,Curaçao,no,0,yes,42
+CUW2,Eloy Room,Curaçao,-,Curaçao,no,0,yes,42
+CUW3,Armando Obispo,Curaçao,-,Curaçao,no,0,yes,42
+CUW4,Sherel Floranus,Curaçao,-,Curaçao,no,0,yes,42
+CUW5,Jurien Gaari,Curaçao,-,Curaçao,no,0,yes,42
+CUW6,Joshua Brenet,Curaçao,-,Curaçao,yes,0,yes,42
+CUW7,Roshon Van Eijma,Curaçao,-,Curaçao,no,0,yes,42
+CUW8,Shurandy Sambo,Curaçao,-,Curaçao,no,0,yes,42
+CUW9,Livano Comenencia,Curaçao,-,Curaçao,no,0,yes,42
+CUW10,Godfried Roemeratoe,Curaçao,-,Curaçao,no,0,yes,42
+CUW11,Juninho Bacuna,Curaçao,-,Curaçao,no,0,yes,42
+CUW12,Leandro Bacuna,Curaçao,-,Curaçao,no,0,yes,42
+CUW13,Team Photo,Curaçao,-,Curaçao,no,0,yes,42
+CUW14,Tahith Chong,Curaçao,-,Curaçao,no,0,yes,42
+CUW15,Kenji Gorre,Curaçao,-,Curaçao,no,0,yes,42
+CUW16,Jearl Margaritha,Curaçao,-,Curaçao,no,0,yes,42
+CUW17,Jurgen Locadia,Curaçao,-,Curaçao,no,0,yes,42
+CUW18,Jeremy Antonisse,Curaçao,-,Curaçao,no,0,yes,42
+CUW19,Gervane Kastaneer,Curaçao,-,Curaçao,no,0,yes,42
+CUW20,Sontje Hansen,Curaçao,-,Curaçao,no,0,yes,42
+CIV1,Emblem,Ivory Coast,foil,Ivory Coast,no,0,yes,44
+CIV2,Yahia Fofana,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV3,Ghislain Konan,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV4,Wilfried Singo,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV5,Odilon Kossounou,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV6,Evan Ndicka,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV7,Willy Boly,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV8,Emmanuel Agbadou,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV9,Ousmane Diomande,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV10,Franck Kessie,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV11,Seko Fofana,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV12,Ibrahim Sangare,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV13,Team Photo,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV14,Jean-Philippe Gbamin,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV15,Amad Diallo,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV16,Sebastien Haller,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV17,Simon Adingra,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV18,Yan Diomande,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV19,Evann Guessand,Ivory Coast,-,Ivory Coast,no,0,yes,44
+CIV20,Oumar Diakite,Ivory Coast,-,Ivory Coast,no,0,yes,44
+ECU1,Emblem,Ecuador,foil,Ecuador,no,0,yes,46
+ECU2,Hernan Galindez,Ecuador,-,Ecuador,no,0,yes,46
+ECU3,Gonzalo Valle,Ecuador,-,Ecuador,no,0,yes,46
+ECU4,Piero Hincapie,Ecuador,-,Ecuador,no,0,yes,46
+ECU5,Pervis Estupinan,Ecuador,-,Ecuador,no,0,yes,46
+ECU6,Willian Pacho,Ecuador,-,Ecuador,no,0,yes,46
+ECU7,Angelo Preciado,Ecuador,-,Ecuador,no,0,yes,46
+ECU8,Joel Ordonez,Ecuador,-,Ecuador,no,0,yes,46
+ECU9,Moises Caicedo,Ecuador,-,Ecuador,no,0,yes,46
+ECU10,Alan Franco,Ecuador,-,Ecuador,no,0,yes,46
+ECU11,Kendry Paez,Ecuador,-,Ecuador,no,0,yes,46
+ECU12,Pedro Vite,Ecuador,-,Ecuador,no,0,yes,46
+ECU13,Team Photo,Ecuador,-,Ecuador,no,0,yes,46
+ECU14,John Yeboah,Ecuador,-,Ecuador,no,0,yes,46
+ECU15,Leonardo Campana,Ecuador,-,Ecuador,no,0,yes,46
+ECU16,Gonzalo Plata,Ecuador,-,Ecuador,no,0,yes,46
+ECU17,Nilson Angulo,Ecuador,-,Ecuador,no,0,yes,46
+ECU18,Alan Minda,Ecuador,-,Ecuador,no,0,yes,46
+ECU19,Kevin Rodriguez,Ecuador,-,Ecuador,no,0,yes,46
+ECU20,Enner Valencia,Ecuador,-,Ecuador,no,0,yes,46
+NED1,Emblem,Netherlands,foil,Netherlands,no,0,yes,48
+NED2,Bart Verbruggen,Netherlands,-,Netherlands,no,0,yes,48
+NED3,Virgil van Dijk,Netherlands,-,Netherlands,no,0,yes,48
+NED4,Micky van de Ven,Netherlands,-,Netherlands,no,0,yes,48
+NED5,Jurrien Timber,Netherlands,-,Netherlands,no,0,yes,48
+NED6,Denzel Dumfries,Netherlands,-,Netherlands,no,0,yes,48
+NED7,Nathan Ake,Netherlands,-,Netherlands,no,0,yes,48
+NED8,Jeremie Frimpong,Netherlands,-,Netherlands,no,0,yes,48
+NED9,Jan Paul van Hecke,Netherlands,-,Netherlands,no,0,yes,48
+NED10,Tijjani Reijnders,Netherlands,-,Netherlands,no,0,yes,48
+NED11,Ryan Gravenberch,Netherlands,-,Netherlands,no,0,yes,48
+NED12,Teun Koopmeiners,Netherlands,-,Netherlands,no,0,yes,48
+NED13,Team Photo,Netherlands,-,Netherlands,no,0,yes,48
+NED14,Frenkie de Jong,Netherlands,-,Netherlands,no,0,yes,48
+NED15,Xavi Simons,Netherlands,-,Netherlands,no,0,yes,48
+NED16,Justin Kluivert,Netherlands,-,Netherlands,no,0,yes,48
+NED17,Memphis Depay,Netherlands,-,Netherlands,no,0,yes,48
+NED18,Donyell Malen,Netherlands,-,Netherlands,no,0,yes,48
+NED19,Wout Weghorst,Netherlands,-,Netherlands,no,0,yes,48
+NED20,Cody Gakpo,Netherlands,-,Netherlands,no,0,yes,48
+JPN1,Emblem,Japan,foil,Japan,no,0,yes,50
+JPN2,Zion Suzuki,Japan,-,Japan,no,0,yes,50
+JPN3,Henry Heroki Mochizuki,Japan,-,Japan,no,0,yes,50
+JPN4,Ayumu Seko,Japan,-,Japan,no,0,yes,50
+JPN5,Junnosuke Suzuki,Japan,-,Japan,no,0,yes,50
+JPN6,Shogo Taniguchi,Japan,-,Japan,no,0,yes,50
+JPN7,Tsuyoshi Watanabe,Japan,-,Japan,no,0,yes,50
+JPN8,Kaishu Sano,Japan,-,Japan,no,0,yes,50
+JPN9,Yuki Soma,Japan,-,Japan,no,0,yes,50
+JPN10,Ao Tanaka,Japan,-,Japan,no,0,yes,50
+JPN11,Daichi Kamada,Japan,-,Japan,no,0,yes,50
+JPN12,Takefusa Kubo,Japan,-,Japan,no,0,yes,50
+JPN13,Team Photo,Japan,-,Japan,no,0,yes,50
+JPN14,Ritsu Doan,Japan,-,Japan,no,0,yes,50
+JPN15,Keito Nakamura,Japan,-,Japan,no,0,yes,50
+JPN16,Takumi Minamino,Japan,-,Japan,no,0,yes,50
+JPN17,Shuto Machino,Japan,-,Japan,no,0,yes,50
+JPN18,Junya Ito,Japan,-,Japan,no,0,yes,50
+JPN19,Koki Ogawa,Japan,-,Japan,no,0,yes,50
+JPN20,Ayase Ueda,Japan,-,Japan,no,0,yes,50
+SWE1,Emblem,Sweden,foil,Sweden,no,0,yes,52
+SWE2,Victor Johansson,Sweden,-,Sweden,no,0,yes,52
+SWE3,Isak Hien,Sweden,-,Sweden,no,0,yes,52
+SWE4,Gabriel Gudmundsson,Sweden,-,Sweden,no,0,yes,52
+SWE5,Emil Holm,Sweden,-,Sweden,no,0,yes,52
+SWE6,Victor Nilsson Lindelof,Sweden,-,Sweden,no,0,yes,52
+SWE7,Gustaf Lagerbielke,Sweden,-,Sweden,no,0,yes,52
+SWE8,Lucas Bergvall,Sweden,-,Sweden,no,0,yes,52
+SWE9,Hugo Larsson,Sweden,-,Sweden,no,0,yes,52
+SWE10,Jesper Karlstrom,Sweden,-,Sweden,no,0,yes,52
+SWE11,Yasin Ayari,Sweden,-,Sweden,no,0,yes,52
+SWE12,Mattias Svanberg,Sweden,-,Sweden,no,0,yes,52
+SWE13,Team Photo,Sweden,-,Sweden,no,0,yes,52
+SWE14,Daniel Svensson,Sweden,-,Sweden,no,0,yes,52
+SWE15,Ken Sema,Sweden,-,Sweden,no,0,yes,52
+SWE16,Roony Bardghji,Sweden,-,Sweden,no,0,yes,52
+SWE17,Dejan Kulusevski,Sweden,-,Sweden,no,0,yes,52
+SWE18,Anthony Elanga,Sweden,-,Sweden,no,0,yes,52
+SWE19,Alexander Isak,Sweden,-,Sweden,no,0,yes,52
+SWE20,Viktor Gyokeres,Sweden,-,Sweden,no,0,yes,52
+TUN1,Emblem,Tunisia,foil,Tunisia,no,0,yes,54
+TUN2,Bechir Ben Said,Tunisia,-,Tunisia,no,0,yes,54
+TUN3,Aymen Dahmen,Tunisia,-,Tunisia,no,0,yes,54
+TUN4,Yan Valery,Tunisia,-,Tunisia,no,0,yes,54
+TUN5,Montassar Talbi,Tunisia,-,Tunisia,no,0,yes,54
+TUN6,Yassine Meriah,Tunisia,-,Tunisia,no,0,yes,54
+TUN7,Ali Abdi,Tunisia,-,Tunisia,no,0,yes,54
+TUN8,Dylan Bronn,Tunisia,-,Tunisia,no,0,yes,54
+TUN9,Ellyes Skhiri,Tunisia,-,Tunisia,no,0,yes,54
+TUN10,Aissa Laidouni,Tunisia,-,Tunisia,no,0,yes,54
+TUN11,Ferjani Sassi,Tunisia,-,Tunisia,no,0,yes,54
+TUN12,Mohamed Ali Ben Romdhane,Tunisia,-,Tunisia,no,0,yes,54
+TUN13,Team Photo,Tunisia,-,Tunisia,no,0,yes,54
+TUN14,Hannibal Mejbri,Tunisia,-,Tunisia,no,0,yes,54
+TUN15,Elias Achouri,Tunisia,-,Tunisia,yes,0,yes,54
+TUN16,Elias Saad,Tunisia,-,Tunisia,no,0,yes,54
+TUN17,Hazem Mastouri,Tunisia,-,Tunisia,no,0,yes,54
+TUN18,Ismael Gharbi,Tunisia,-,Tunisia,no,0,yes,54
+TUN19,Sayfallah Ltaief,Tunisia,-,Tunisia,no,0,yes,54
+TUN20,Naim Sliti,Tunisia,-,Tunisia,no,0,yes,54
+BEL1,Emblem,Belgium,foil,Belgium,no,0,yes,58
+BEL2,Thibaut Courtois,Belgium,-,Belgium,no,0,yes,58
+BEL3,Arthur Theate,Belgium,-,Belgium,no,0,yes,58
+BEL4,Timothy Castagne,Belgium,-,Belgium,no,0,yes,58
+BEL5,Zeno Debast,Belgium,-,Belgium,no,0,yes,58
+BEL6,Brandon Mechele,Belgium,-,Belgium,no,0,yes,58
+BEL7,Maxim De Cuyper,Belgium,-,Belgium,no,0,yes,58
+BEL8,Thomas Meunier,Belgium,-,Belgium,yes,0,yes,58
+BEL9,Youri Tielemans,Belgium,-,Belgium,yes,0,yes,58
+BEL10,Amadou Onana,Belgium,-,Belgium,no,0,yes,58
+BEL11,Nicolas Raskin,Belgium,-,Belgium,no,0,yes,58
+BEL12,Alexis Saelemaekers,Belgium,-,Belgium,yes,0,yes,58
+BEL13,Team Photo,Belgium,-,Belgium,no,0,yes,58
+BEL14,Hans Vanaken,Belgium,-,Belgium,no,0,yes,58
+BEL15,Kevin De Bruyne,Belgium,-,Belgium,no,0,yes,58
+BEL16,Jeremy Doku,Belgium,-,Belgium,no,0,yes,58
+BEL17,Charles De Ketelaere,Belgium,-,Belgium,no,0,yes,58
+BEL18,Leandro Trossard,Belgium,-,Belgium,no,0,yes,58
+BEL19,Lois Openda,Belgium,-,Belgium,no,0,yes,58
+BEL20,Romelu Lukaku,Belgium,-,Belgium,no,0,yes,58
+BEL2S,Thibaut Courtois,Belgium,silver,Belgium,no,0,NA,1
+BEL3S,Arthur Theate,Belgium,silver,Belgium,no,0,NA,1
+BEL4S,Timothy Castagne,Belgium,silver,Belgium,no,0,NA,1
+BEL5S,Zeno Debast,Belgium,silver,Belgium,no,0,NA,1
+BEL6S,Brandon Mechele,Belgium,silver,Belgium,no,0,NA,1
+BEL7S,Maxim De Cuyper,Belgium,silver,Belgium,no,0,NA,1
+BEL8S,Thomas Meunier,Belgium,silver,Belgium,no,0,NA,1
+BEL9S,Youri Tielemans,Belgium,silver,Belgium,no,0,NA,1
+BEL10S,Amadou Onana,Belgium,silver,Belgium,no,0,NA,1
+BEL11S,Nicolas Raskin,Belgium,silver,Belgium,no,0,NA,1
+BEL12S,Alexis Saelemaekers,Belgium,silver,Belgium,no,0,NA,1
+BEL14S,Hans Vanaken,Belgium,silver,Belgium,no,0,NA,1
+BEL15S,Kevin De Bruyne,Belgium,silver,Belgium,no,0,NA,1
+BEL16S,Jeremy Doku,Belgium,silver,Belgium,no,0,NA,1
+BEL17S,Charles De Ketelaere,Belgium,silver,Belgium,no,0,NA,1
+BEL18S,Leandro Trossard,Belgium,silver,Belgium,no,0,NA,1
+BEL19S,Lois Openda,Belgium,silver,Belgium,no,0,NA,1
+BEL20S,Romelu Lukaku,Belgium,silver,Belgium,no,0,NA,1
+EGY1,Emblem,Egypt,foil,Egypt,no,0,yes,60
+EGY2,Mohamed El Shenawy,Egypt,-,Egypt,no,0,yes,60
+EGY3,Mohamed Hany,Egypt,-,Egypt,no,0,yes,60
+EGY4,Mohamed Hamdy,Egypt,-,Egypt,no,0,yes,60
+EGY5,Yasser Ibrahim,Egypt,-,Egypt,no,0,yes,60
+EGY6,Khaled Sobhi,Egypt,-,Egypt,no,0,yes,60
+EGY7,Ramy Rabia,Egypt,-,Egypt,no,0,yes,60
+EGY8,Hossam Abdelmaguid,Egypt,-,Egypt,no,0,yes,60
+EGY9,Ahmed Fatouh,Egypt,-,Egypt,no,0,yes,60
+EGY10,Marwan Attia,Egypt,-,Egypt,no,0,yes,60
+EGY11,Zizo,Egypt,-,Egypt,no,0,yes,60
+EGY12,Hamdy Fathy,Egypt,-,Egypt,no,0,yes,60
+EGY13,Team Photo,Egypt,-,Egypt,no,0,yes,60
+EGY14,Mohamed Lasheen,Egypt,-,Egypt,no,0,yes,60
+EGY15,Emam Ashour,Egypt,-,Egypt,no,0,yes,60
+EGY16,Osama Faisal,Egypt,-,Egypt,no,0,yes,60
+EGY17,Mohamed Salah,Egypt,-,Egypt,no,0,yes,60
+EGY18,Mostafa Mohamed,Egypt,-,Egypt,no,0,yes,60
+EGY19,Trezeguet,Egypt,-,Egypt,no,0,yes,60
+EGY20,Omar Marmoush,Egypt,-,Egypt,no,0,yes,60
+IRN1,Emblem,Iran,foil,Iran,no,0,yes,62
+IRN2,Alireza Beiranvand,Iran,-,Iran,no,0,yes,62
+IRN3,Morteza Pouraliganji,Iran,-,Iran,no,0,yes,62
+IRN4,Ehsan Hajsafi,Iran,-,Iran,no,0,yes,62
+IRN5,Milad Mohammadi,Iran,-,Iran,no,0,yes,62
+IRN6,Shojae Khalilzadeh,Iran,-,Iran,no,0,yes,62
+IRN7,Ramin Rezaeian,Iran,-,Iran,no,0,yes,62
+IRN8,Hossein Kanaani,Iran,-,Iran,no,0,yes,62
+IRN9,Sadegh Moharrami,Iran,-,Iran,no,0,yes,62
+IRN10,Saleh Hardani,Iran,-,Iran,no,0,yes,62
+IRN11,Saeed Ezatolahi,Iran,-,Iran,no,0,yes,62
+IRN12,Saman Ghoddos,Iran,-,Iran,no,0,yes,62
+IRN13,Team Photo,Iran,-,Iran,no,0,yes,62
+IRN14,Omid Noorafkan,Iran,-,Iran,no,0,yes,62
+IRN15,Roozbeh Cheshmi,Iran,-,Iran,no,0,yes,62
+IRN16,Mohammad Mohebi,Iran,-,Iran,no,0,yes,62
+IRN17,Sardar Azmoun,Iran,-,Iran,no,0,yes,62
+IRN18,Mehdi Taremi,Iran,-,Iran,no,0,yes,62
+IRN19,Alireza Jahanbakhsh,Iran,-,Iran,no,0,yes,62
+IRN20,Ali Gholizadeh,Iran,-,Iran,no,0,yes,62
+NZL1,Emblem,New Zealand,foil,New Zealand,no,0,yes,64
+NZL2,Max Crocombe,New Zealand,-,New Zealand,no,0,yes,64
+NZL3,Alex Paulsen,New Zealand,-,New Zealand,no,0,yes,64
+NZL4,Michael Boxall,New Zealand,-,New Zealand,no,0,yes,64
+NZL5,Liberato Cacace,New Zealand,-,New Zealand,no,0,yes,64
+NZL6,Tim Payne,New Zealand,-,New Zealand,no,0,yes,64
+NZL7,Tyler Bindon,New Zealand,-,New Zealand,no,0,yes,64
+NZL8,Francis de Vries,New Zealand,-,New Zealand,no,0,yes,64
+NZL9,Finn Surman,New Zealand,-,New Zealand,no,0,yes,64
+NZL10,Joe Bell,New Zealand,-,New Zealand,no,0,yes,64
+NZL11,Sarpreet Singh,New Zealand,-,New Zealand,no,0,yes,64
+NZL12,Ryan Thomas,New Zealand,-,New Zealand,no,0,yes,64
+NZL13,Team Photo,New Zealand,-,New Zealand,yes,0,yes,64
+NZL14,Matthew Garbett,New Zealand,-,New Zealand,no,0,yes,64
+NZL15,Marko Stamenic,New Zealand,-,New Zealand,no,0,yes,64
+NZL16,Ben Old,New Zealand,-,New Zealand,no,0,yes,64
+NZL17,Chris Wood,New Zealand,-,New Zealand,no,0,yes,64
+NZL18,Elijah Just,New Zealand,-,New Zealand,no,0,yes,64
+NZL19,Callum McCowatt,New Zealand,-,New Zealand,no,0,yes,64
+NZL20,Kosta Barbarouses,New Zealand,-,New Zealand,no,0,yes,64
+ESP1,Emblem,Spain,foil,Spain,no,0,yes,66
+ESP2,Unai Simon,Spain,-,Spain,no,0,yes,66
+ESP3,Robin Le Normand,Spain,-,Spain,no,0,yes,66
+ESP4,Aymeric Laporte,Spain,-,Spain,no,0,yes,66
+ESP5,Dean Huijsen,Spain,-,Spain,no,0,yes,66
+ESP6,Pedro Porro,Spain,-,Spain,no,0,yes,66
+ESP7,Dani Carvajal,Spain,-,Spain,no,0,yes,66
+ESP8,Marc Cucurella,Spain,-,Spain,no,0,yes,66
+ESP9,Martin Zubimendi,Spain,-,Spain,no,0,yes,66
+ESP10,Rodri,Spain,-,Spain,no,0,yes,66
+ESP11,Pedri,Spain,-,Spain,no,0,yes,66
+ESP12,Fabian Ruiz,Spain,-,Spain,no,0,yes,66
+ESP13,Team Photo,Spain,-,Spain,no,0,yes,66
+ESP14,Mikel Merino,Spain,-,Spain,no,0,yes,66
+ESP15,Lamine Yamal,Spain,-,Spain,no,0,yes,66
+ESP16,Dani Olmo,Spain,-,Spain,no,0,yes,66
+ESP17,Nico Williams,Spain,-,Spain,no,0,yes,66
+ESP18,Ferran Torres,Spain,-,Spain,no,0,yes,66
+ESP19,Alvaro Morata,Spain,-,Spain,no,0,yes,66
+ESP20,Mikel Oyarzabal,Spain,-,Spain,no,0,yes,66
+CPV1,Emblem,Cape Verde,foil,Cape Verde,no,0,yes,68
+CPV2,Vozinha,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV3,Logan Costa,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV4,Pico,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV5,Diney,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV6,Steven Moreira,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV7,Wagner Pina,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV8,Joao Paulo,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV9,Yannick Semedo,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV10,Kevin Pina,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV11,Patrick Andrade,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV12,Jamiro Monteiro,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV13,Team Photo,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV14,Deroy Duarte,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV15,Garry Rodrigues,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV16,Jovane Cabral,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV17,Ryan Mendes,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV18,Dailon Livramento,Cape Verde,-,Cape Verde,no,0,yes,68
+CPV19,Willy Semedo,Cape Verde,-,Cape Verde,yes,0,yes,68
+CPV20,Bebe,Cape Verde,-,Cape Verde,no,0,yes,68
+KSA1,Emblem,Saudi Arabia,foil,Saudi Arabia,no,0,yes,70
+KSA2,Nawaf Alaqidi,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA3,Abdulrahman Al-Sanbi,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA4,Saud Abdulhamid,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA5,Nawaf Bouwashl,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA6,Jihad Thakri,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA7,Moteb Al-Harbi,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA8,Hassan Altambakti,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA9,Musab Aljuwayr,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA10,Ziyad Aljohani,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA11,Abdullah Alkhaibari,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA12,Nasser Aldawsari,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA13,Team Photo,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA14,Saleh Abu Alshamat,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA15,Marwan Alsahafi,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA16,Salem Aldawsari,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA17,Abdulrahman Al-Aboud,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA18,Feras Akbrikan,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA19,Saleh Alshehri,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+KSA20,Abdullah Al-Hamdan,Saudi Arabia,-,Saudi Arabia,no,0,yes,70
+URU1,Emblem,Uruguay,foil,Uruguay,no,0,yes,72
+URU2,Sergio Rochet,Uruguay,-,Uruguay,no,0,yes,72
+URU3,Santiago Mele,Uruguay,-,Uruguay,no,0,yes,72
+URU4,Ronald Araujo,Uruguay,-,Uruguay,no,0,yes,72
+URU5,Jose Maria Gimenez,Uruguay,-,Uruguay,no,0,yes,72
+URU6,Sebastian Caceres,Uruguay,-,Uruguay,no,0,yes,72
+URU7,Mathias Olivera,Uruguay,-,Uruguay,no,0,yes,72
+URU8,Guillermo Varela,Uruguay,-,Uruguay,no,0,yes,72
+URU9,Nahitan Nandez,Uruguay,-,Uruguay,no,0,yes,72
+URU10,Federico Valverde,Uruguay,-,Uruguay,no,0,yes,72
+URU11,Giorgian De Arrascaeta,Uruguay,-,Uruguay,no,0,yes,72
+URU12,Rodrigo Bentancur,Uruguay,-,Uruguay,no,0,yes,72
+URU13,Team Photo,Uruguay,-,Uruguay,no,0,yes,72
+URU14,Manuel Ugarte,Uruguay,-,Uruguay,no,0,yes,72
+URU15,Nicolas de la Cruz,Uruguay,-,Uruguay,no,0,yes,72
+URU16,Maxi Araujo,Uruguay,-,Uruguay,no,0,yes,72
+URU17,Darwin Nunez,Uruguay,-,Uruguay,no,0,yes,72
+URU18,Federico Vinas,Uruguay,-,Uruguay,no,0,yes,72
+URU19,Rodrigo Aguirre,Uruguay,-,Uruguay,no,0,yes,72
+URU20,Facundo Pellistri,Uruguay,-,Uruguay,no,0,yes,72
+FRA1,Emblem,France,foil,France,no,0,yes,74
+FRA2,Mike Maignan,France,-,France,no,0,yes,74
+FRA3,Theo Hernandez,France,-,France,no,0,yes,74
+FRA4,William Saliba,France,-,France,no,0,yes,74
+FRA5,Jules Kounde,France,-,France,no,0,yes,74
+FRA6,Ibrahima Konate,France,-,France,no,0,yes,74
+FRA7,Dayot Upamecano,France,-,France,no,0,yes,74
+FRA8,Lucas Digne,France,-,France,no,0,yes,74
+FRA9,Aurelien Tchouameni,France,-,France,no,0,yes,74
+FRA10,Eduardo Camavinga,France,-,France,no,0,yes,74
+FRA11,Manu Kone,France,-,France,no,0,yes,74
+FRA12,Adrien Rabiot,France,-,France,no,0,yes,74
+FRA13,Team Photo,France,-,France,no,0,yes,74
+FRA14,Michael Olise,France,-,France,no,0,yes,74
+FRA15,Ousmane Dembele,France,-,France,no,0,yes,74
+FRA16,Bradley Barcola,France,-,France,no,0,yes,74
+FRA17,Desire Doue,France,-,France,no,0,yes,74
+FRA18,Kingsley Coman,France,-,France,no,0,yes,74
+FRA19,Hugo Ekitike,France,-,France,no,0,yes,74
+FRA2S,Mike Maignan,France,silver,France,no,0,NA,1
+FRA3S,Theo Hernandez,France,silver,France,no,0,NA,1
+FRA4S,William Saliba,France,silver,France,no,0,NA,1
+FRA5S,Jules Kounde,France,silver,France,no,0,NA,1
+FRA6S,Ibrahima Konate,France,silver,France,no,0,NA,1
+FRA7S,Dayot Upamecano,France,silver,France,no,0,NA,1
+FRA8S,Lucas Digne,France,silver,France,no,0,NA,1
+FRA9S,Aurelien Tchouameni,France,silver,France,no,0,NA,1
+FRA10S,Eduardo Camavinga,France,silver,France,no,0,NA,1
+FRA11S,Manu Kone,France,silver,France,no,0,NA,1
+FRA12S,Adrien Rabiot,France,silver,France,no,0,NA,1
+FRA14S,Michael Olise,France,silver,France,no,0,NA,1
+FRA15S,Ousmane Dembele,France,silver,France,no,0,NA,1
+FRA16S,Bradley Barcola,France,silver,France,no,0,NA,1
+FRA17S,Desire Doue,France,silver,France,no,0,NA,1
+FRA18S,Kingsley Coman,France,silver,France,no,0,NA,1
+FRA19S,Hugo Ekitike,France,silver,France,no,0,NA,1
+FRA20,Kylian Mbappe,France,-,France,no,0,yes,74
+FRA20S,Kylian Mbappe,France,silver,France,no,0,NA,1
+SEN1,Emblem,Senegal,foil,Senegal,no,0,yes,76
+SEN2,Edouard Mendy,Senegal,-,Senegal,no,0,yes,76
+SEN3,Yehvann Diouf,Senegal,-,Senegal,no,0,yes,76
+SEN4,Moussa Niakhate,Senegal,-,Senegal,no,0,yes,76
+SEN5,Abdoulaye Seck,Senegal,-,Senegal,no,0,yes,76
+SEN6,Ismail Jakobs,Senegal,-,Senegal,no,0,yes,76
+SEN7,El Hadji Malick Diouf,Senegal,-,Senegal,no,0,yes,76
+SEN8,Kalidou Koulibaly,Senegal,-,Senegal,no,0,yes,76
+SEN9,Idrissa Gana Gueye,Senegal,-,Senegal,no,0,yes,76
+SEN10,Pape Matar Sarr,Senegal,-,Senegal,no,0,yes,76
+SEN11,Pape Gueye,Senegal,-,Senegal,no,0,yes,76
+SEN12,Habib Diarra,Senegal,-,Senegal,no,0,yes,76
+SEN13,Team Photo,Senegal,-,Senegal,no,0,yes,76
+SEN14,Lamine Camara,Senegal,-,Senegal,no,0,yes,76
+SEN15,Sadio Mane,Senegal,-,Senegal,no,0,yes,76
+SEN16,Ismaila Sarr,Senegal,-,Senegal,no,0,yes,76
+SEN17,Boulaye Dia,Senegal,-,Senegal,no,0,yes,76
+SEN18,Iliman Ndiaye,Senegal,-,Senegal,no,0,yes,76
+SEN19,Nicolas Jackson,Senegal,-,Senegal,no,0,yes,76
+SEN20,Krepin Diatta,Senegal,-,Senegal,no,0,yes,76
+IRQ1,Emblem,Iraq,foil,Iraq,no,0,yes,78
+IRQ2,Jalal Hassan,Iraq,-,Iraq,no,0,yes,78
+IRQ3,Rebin Sulaka,Iraq,-,Iraq,no,0,yes,78
+IRQ4,Hussein Ali,Iraq,-,Iraq,no,0,yes,78
+IRQ5,Akam Hashem,Iraq,-,Iraq,no,0,yes,78
+IRQ6,Merchas Doski,Iraq,-,Iraq,no,0,yes,78
+IRQ7,Zaid Tahseen,Iraq,-,Iraq,no,0,yes,78
+IRQ8,Manaf Younis,Iraq,-,Iraq,no,0,yes,78
+IRQ9,Zidane Iqbal,Iraq,-,Iraq,no,0,yes,78
+IRQ10,Amir Al-Ammari,Iraq,-,Iraq,no,0,yes,78
+IRQ11,Ibrahim Bavesh,Iraq,-,Iraq,no,0,yes,78
+IRQ12,Ali Jasim,Iraq,-,Iraq,yes,0,yes,78
+IRQ13,Team Photo,Iraq,-,Iraq,no,0,yes,78
+IRQ14,Youssef Amyn,Iraq,-,Iraq,yes,0,yes,78
+IRQ15,Aimar Sher,Iraq,-,Iraq,no,0,yes,78
+IRQ16,Marko Farji,Iraq,-,Iraq,no,0,yes,78
+IRQ17,Osama Rashid,Iraq,-,Iraq,no,0,yes,78
+IRQ18,Ali Al-Hamadi,Iraq,-,Iraq,no,0,yes,78
+IRQ19,Aymen Hussein,Iraq,-,Iraq,no,0,yes,78
+IRQ20,Mohanad Ali,Iraq,-,Iraq,no,0,yes,78
+NOR1,Emblem,Norway,foil,Norway,no,0,yes,80
+NOR2,Orjan Nyland,Norway,-,Norway,no,0,yes,80
+NOR3,Julian Ryerson,Norway,-,Norway,no,0,yes,80
+NOR4,Leo Ostigard,Norway,-,Norway,no,0,yes,80
+NOR5,Kristoffer Vassbakk Ajer,Norway,-,Norway,no,0,yes,80
+NOR6,Marcus Holmgren Pedersen,Norway,-,Norway,no,0,yes,80
+NOR7,David Moller Wolfe,Norway,-,Norway,no,0,yes,80
+NOR8,Torbjorn Heggem,Norway,-,Norway,no,0,yes,80
+NOR9,Morten Thorsby,Norway,-,Norway,no,0,yes,80
+NOR10,Martin Odegaard,Norway,-,Norway,no,0,yes,80
+NOR11,Sander Berge,Norway,-,Norway,no,0,yes,80
+NOR12,Andreas Schjelderup,Norway,-,Norway,no,0,yes,80
+NOR13,Team Photo,Norway,-,Norway,no,0,yes,80
+NOR14,Patrick Berg,Norway,-,Norway,no,0,yes,80
+NOR15,Erling Haaland,Norway,-,Norway,no,0,yes,80
+NOR16,Alexander Sorloth,Norway,-,Norway,no,0,yes,80
+NOR17,Aron Donnum,Norway,-,Norway,no,0,yes,80
+NOR18,Jorgen Strand Larsen,Norway,-,Norway,no,0,yes,80
+NOR19,Antonio Nusa,Norway,-,Norway,no,0,yes,80
+NOR20,Oscar Bobb,Norway,-,Norway,no,0,yes,80
+ARG1,Emblem,Argentina,foil,Argentina,no,0,yes,82
+ARG2,Emiliano Martinez,Argentina,-,Argentina,yes,0,yes,82
+ARG3,Nahuel Molina,Argentina,-,Argentina,no,0,yes,82
+ARG4,Cristian Romero,Argentina,-,Argentina,no,0,yes,82
+ARG5,Nicolas Otamendi,Argentina,-,Argentina,no,0,yes,82
+ARG6,Nicolas Tagliafico,Argentina,-,Argentina,no,0,yes,82
+ARG7,Leonardo Balerdi,Argentina,-,Argentina,no,0,yes,82
+ARG8,Enzo Fernandez,Argentina,-,Argentina,no,0,yes,82
+ARG9,Alexis Mac Allister,Argentina,-,Argentina,no,0,yes,82
+ARG10,Rodrigo De Paul,Argentina,-,Argentina,no,0,yes,82
+ARG11,Exequiel Palacios,Argentina,-,Argentina,no,0,yes,82
+ARG12,Leandro Paredes,Argentina,-,Argentina,no,0,yes,82
+ARG13,Team Photo,Argentina,-,Argentina,no,0,yes,82
+ARG14,Nico Paz,Argentina,-,Argentina,no,0,yes,82
+ARG15,Franco Mastantuono,Argentina,-,Argentina,no,0,yes,82
+ARG16,Nico Gonzalez,Argentina,-,Argentina,no,0,yes,82
+ARG17,Lionel Messi,Argentina,-,Argentina,no,0,yes,82
+ARG18,Lautaro Martinez,Argentina,-,Argentina,no,0,yes,82
+ARG19,Julian Alvarez,Argentina,-,Argentina,no,0,yes,82
+ARG20,Giuliano Simeone,Argentina,-,Argentina,no,0,yes,82
+ALG1,Emblem,Algeria,foil,Algeria,no,0,yes,84
+ALG2,Alexis Guendouz,Algeria,-,Algeria,no,0,yes,84
+ALG3,Ramy Bensebaini,Algeria,-,Algeria,no,0,yes,84
+ALG4,Youcef Atal,Algeria,-,Algeria,no,0,yes,84
+ALG5,Rayan Ait-Nouri,Algeria,-,Algeria,no,0,yes,84
+ALG6,Mohamed Amine Tougai,Algeria,-,Algeria,no,0,yes,84
+ALG7,Aissa Mandi,Algeria,-,Algeria,no,0,yes,84
+ALG8,Ismael Bennacer,Algeria,-,Algeria,no,0,yes,84
+ALG9,Houssem Aouar,Algeria,-,Algeria,no,0,yes,84
+ALG10,Hicham Boudaoui,Algeria,-,Algeria,no,0,yes,84
+ALG11,Ramiz Zerrouki,Algeria,-,Algeria,no,0,yes,84
+ALG12,Nabil Bentaleb,Algeria,-,Algeria,no,0,yes,84
+ALG13,Team Photo,Algeria,-,Algeria,no,0,yes,84
+ALG14,Fares Chaibi,Algeria,-,Algeria,no,0,yes,84
+ALG15,Riyad Mahrez,Algeria,-,Algeria,no,0,yes,84
+ALG16,Said Benrahma,Algeria,-,Algeria,no,0,yes,84
+ALG17,Anis Hadj Moussa,Algeria,-,Algeria,no,0,yes,84
+ALG18,Amine Gouiri,Algeria,-,Algeria,no,0,yes,84
+ALG19,Baghdad Bounedjah,Algeria,-,Algeria,no,0,yes,84
+ALG20,Mohammed Amoura,Algeria,-,Algeria,no,0,yes,84
+AUT1,Emblem,Austria,foil,Austria,no,0,yes,86
+AUT2,Alexander Schlager,Austria,-,Austria,no,0,yes,86
+AUT3,Patrick Pentz,Austria,-,Austria,no,0,yes,86
+AUT4,David Alaba,Austria,-,Austria,no,0,yes,86
+AUT5,Kevin Danso,Austria,-,Austria,no,0,yes,86
+AUT6,Philipp Lienhart,Austria,-,Austria,no,0,yes,86
+AUT7,Stefan Posch,Austria,-,Austria,no,0,yes,86
+AUT8,Phillipp Mwene,Austria,-,Austria,no,0,yes,86
+AUT9,Alexander Prass,Austria,-,Austria,no,0,yes,86
+AUT10,Xaver Schlager,Austria,-,Austria,no,0,yes,86
+AUT11,Marcel Sabitzer,Austria,-,Austria,no,0,yes,86
+AUT12,Konrad Laimer,Austria,-,Austria,no,0,yes,86
+AUT13,Team Photo,Austria,-,Austria,no,0,yes,86
+AUT14,Florian Grillitsch,Austria,-,Austria,no,0,yes,86
+AUT15,Nicolas Seiwald,Austria,-,Austria,no,0,yes,86
+AUT16,Romano Schmid,Austria,-,Austria,no,0,yes,86
+AUT17,Patrick Wimmer,Austria,-,Austria,no,0,yes,86
+AUT18,Christoph Baumgartner,Austria,-,Austria,no,0,yes,86
+AUT19,Michael Gregoritsch,Austria,-,Austria,no,0,yes,86
+AUT20,Marko Arnautovic,Austria,-,Austria,no,0,yes,86
+AUT2S,Alexander Schlager,Austria,silver,Austria,no,0,NA,1
+AUT3S,Patrick Pentz,Austria,silver,Austria,no,0,NA,1
+AUT4S,David Alaba,Austria,silver,Austria,no,0,NA,1
+AUT5S,Kevin Danso,Austria,silver,Austria,no,0,NA,1
+AUT6S,Philipp Lienhart,Austria,silver,Austria,no,0,NA,1
+AUT7S,Stefan Posch,Austria,silver,Austria,no,0,NA,1
+AUT8S,Phillipp Mwene,Austria,silver,Austria,no,0,NA,1
+AUT9S,Alexander Prass,Austria,silver,Austria,no,0,NA,1
+AUT10S,Xaver Schlager,Austria,silver,Austria,no,0,NA,1
+AUT11S,Marcel Sabitzer,Austria,silver,Austria,no,0,NA,1
+AUT12S,Konrad Laimer,Austria,silver,Austria,no,0,NA,1
+AUT14S,Florian Grillitsch,Austria,silver,Austria,no,0,NA,1
+AUT15S,Nicolas Seiwald,Austria,silver,Austria,no,0,NA,1
+AUT16S,Romano Schmid,Austria,silver,Austria,no,0,NA,1
+AUT17S,Patrick Wimmer,Austria,silver,Austria,no,0,NA,1
+AUT18S,Christoph Baumgartner,Austria,silver,Austria,no,0,NA,1
+AUT19S,Michael Gregoritsch,Austria,silver,Austria,no,0,NA,1
+AUT20S,Marko Arnautovic,Austria,silver,Austria,no,0,NA,1
+JOR1,Emblem,Jordan,foil,Jordan,no,0,yes,88
+JOR2,Yazeed Abulaila,Jordan,-,Jordan,no,0,yes,88
+JOR3,Ihsan Haddad,Jordan,-,Jordan,no,0,yes,88
+JOR4,Mohammad Abu Hashish,Jordan,-,Jordan,no,0,yes,88
+JOR5,Yazan Al-Arab,Jordan,-,Jordan,no,0,yes,88
+JOR6,Abdallah Nasib,Jordan,-,Jordan,no,0,yes,88
+JOR7,Saleem Obaid,Jordan,-,Jordan,no,0,yes,88
+JOR8,Mohammad Abualnadi,Jordan,-,Jordan,no,0,yes,88
+JOR9,Ibrahim Saadeh,Jordan,-,Jordan,no,0,yes,88
+JOR10,Nizar Al-Rashdan,Jordan,-,Jordan,no,0,yes,88
+JOR11,Noor Al-Rawabdeh,Jordan,-,Jordan,no,0,yes,88
+JOR12,Mohannad Abu Taha,Jordan,-,Jordan,no,0,yes,88
+JOR13,Team Photo,Jordan,-,Jordan,no,0,yes,88
+JOR14,Amer Jamous,Jordan,-,Jordan,no,0,yes,88
+JOR15,Musa Al-Taamari,Jordan,-,Jordan,no,0,yes,88
+JOR16,Yazan Al-Naimat,Jordan,-,Jordan,no,0,yes,88
+JOR17,Mahmoud Al-Mardi,Jordan,-,Jordan,no,0,yes,88
+JOR18,Ali Olwan,Jordan,-,Jordan,no,0,yes,88
+JOR19,Mohammad Abu Zrayq,Jordan,-,Jordan,no,0,yes,88
+JOR20,Ibrahim Sabra,Jordan,-,Jordan,no,0,yes,88
+POR1,Emblem,Portugal,foil,Portugal,no,0,yes,90
+POR2,Diogo Costa,Portugal,-,Portugal,no,0,yes,90
+POR3,Jose Sa,Portugal,-,Portugal,no,0,yes,90
+POR4,Ruben Dias,Portugal,-,Portugal,no,0,yes,90
+POR5,Joao Cancelo,Portugal,-,Portugal,yes,0,yes,90
+POR6,Diogo Dalot,Portugal,-,Portugal,no,0,yes,90
+POR7,Nuno Mendes,Portugal,-,Portugal,no,0,yes,90
+POR8,Goncalo Inacio,Portugal,-,Portugal,no,0,yes,90
+POR9,Bernardo Silva,Portugal,-,Portugal,no,0,yes,90
+POR10,Bruno Fernandes,Portugal,-,Portugal,no,0,yes,90
+POR11,Ruben Neves,Portugal,-,Portugal,no,0,yes,90
+POR12,Vitinha,Portugal,-,Portugal,no,0,yes,90
+POR13,Team Photo,Portugal,-,Portugal,no,0,yes,90
+POR14,Joao Neves,Portugal,-,Portugal,no,0,yes,90
+POR15,Cristiano Ronaldo,Portugal,-,Portugal,no,0,yes,90
+POR16,Francisco Trincao,Portugal,-,Portugal,no,0,yes,90
+POR17,Joao Felix,Portugal,-,Portugal,no,0,yes,90
+POR18,Goncalo Ramos,Portugal,-,Portugal,no,0,yes,90
+POR19,Pedro Neto,Portugal,-,Portugal,no,0,yes,90
+POR20,Rafael Leao,Portugal,-,Portugal,no,0,yes,90
+COD1,Emblem,Congo DR,foil,Congo DR,no,0,yes,92
+COD2,Lionel Mpasi-Nzau,Congo DR,-,Congo DR,no,0,yes,92
+COD3,Aaron Wan-Bissaka,Congo DR,-,Congo DR,no,0,yes,92
+COD4,Axel Tuanzebe,Congo DR,-,Congo DR,no,0,yes,92
+COD5,Arthur Masuaku,Congo DR,-,Congo DR,no,0,yes,92
+COD6,Chancel Mbemba,Congo DR,-,Congo DR,no,0,yes,92
+COD7,Joris Kayembe,Congo DR,-,Congo DR,no,0,yes,92
+COD8,Charles Pickel,Congo DR,-,Congo DR,no,0,yes,92
+COD9,Ngal'ayel Mukau,Congo DR,-,Congo DR,no,0,yes,92
+COD10,Edo Kayembe,Congo DR,-,Congo DR,no,0,yes,92
+COD11,Samuel Moutoussamy,Congo DR,-,Congo DR,no,0,yes,92
+COD12,Noah Sadiki,Congo DR,-,Congo DR,no,0,yes,92
+COD13,Team Photo,Congo DR,-,Congo DR,no,0,yes,92
+COD14,Theo Bongonda,Congo DR,-,Congo DR,no,0,yes,92
+COD15,Meschak Elia,Congo DR,-,Congo DR,no,0,yes,92
+COD16,Yoane Wissa,Congo DR,-,Congo DR,no,0,yes,92
+COD17,Brian Cipenga,Congo DR,-,Congo DR,no,0,yes,92
+COD18,Fiston Mayele,Congo DR,-,Congo DR,yes,0,yes,92
+COD19,Cedric Bakambu,Congo DR,-,Congo DR,no,0,yes,92
+COD20,Nathanael Mbuku,Congo DR,-,Congo DR,no,0,yes,92
+UZB1,Emblem,Uzbekistan,foil,Uzbekistan,no,0,yes,94
+UZB2,Utkir Yusupov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB3,Farrukh Savfiev,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB4,Sherzod Nasrullaev,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB5,Umar Eshmurodov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB6,Husniddin Aliqulov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB7,Rustamjon Ashurmatov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB8,Khojiakbar Alijonov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB9,Abdukodir Khusanov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB10,Odiljon Hamrobekov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB11,Otabek Shukurov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB12,Jamshid Iskanderov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB13,Team Photo,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB14,Azizbek Turgunboev,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB15,Khojimat Erkinov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB16,Eldor Shomurodov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB17,Oston Urunov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB18,Jaloliddin Masharipov,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB19,Igor Sergeev,Uzbekistan,-,Uzbekistan,no,0,yes,94
+UZB20,Abbosbek Fayzullaev,Uzbekistan,-,Uzbekistan,no,0,yes,94
+COL1,Emblem,Colombia,foil,Colombia,no,0,yes,96
+COL2,Camilo Vargas,Colombia,-,Colombia,no,0,yes,96
+COL3,David Ospina,Colombia,-,Colombia,no,0,yes,96
+COL4,Davinson Sanchez,Colombia,-,Colombia,no,0,yes,96
+COL5,Yerry Mina,Colombia,-,Colombia,no,0,yes,96
+COL6,Daniel Munoz,Colombia,-,Colombia,no,0,yes,96
+COL7,Johan Mojica,Colombia,-,Colombia,no,0,yes,96
+COL8,Jhon Lucumi,Colombia,-,Colombia,no,0,yes,96
+COL9,Santiago Arias,Colombia,-,Colombia,no,0,yes,96
+COL10,Jefferson Lerma,Colombia,-,Colombia,no,0,yes,96
+COL11,Kevin Castano,Colombia,-,Colombia,no,0,yes,96
+COL12,Richard Rios,Colombia,-,Colombia,no,0,yes,96
+COL13,Team Photo,Colombia,-,Colombia,no,0,yes,96
+COL14,James Rodriguez,Colombia,-,Colombia,no,0,yes,96
+COL15,Juan Fernando Quintero,Colombia,-,Colombia,no,0,yes,96
+COL16,Jorge Carrascal,Colombia,-,Colombia,no,0,yes,96
+COL17,Jhon Arias,Colombia,-,Colombia,no,0,yes,96
+COL18,Jhon Cordova,Colombia,-,Colombia,no,0,yes,96
+COL19,Luis Suarez,Colombia,-,Colombia,no,0,yes,96
+COL20,Luis Diaz,Colombia,-,Colombia,no,0,yes,96
+ENG1,Emblem,England,foil,England,no,0,yes,98
+ENG2,Jordan Pickford,England,-,England,no,0,yes,98
+ENG3,John Stones,England,-,England,no,0,yes,98
+ENG4,Marc Guehi,England,-,England,no,0,yes,98
+ENG5,Ezri Konsa,England,-,England,no,0,yes,98
+ENG6,Trent Alexander-Arnold,England,-,England,no,0,yes,98
+ENG7,Reece James,England,-,England,no,0,yes,98
+ENG8,Dan Burn,England,-,England,no,0,yes,98
+ENG9,Jordan Henderson,England,-,England,no,0,yes,98
+ENG10,Declan Rice,England,-,England,no,0,yes,98
+ENG11,Jude Bellingham,England,-,England,no,0,yes,98
+ENG12,Cole Palmer,England,-,England,no,0,yes,98
+ENG13,Team Photo,England,-,England,no,0,yes,98
+ENG14,Morgan Rogers,England,-,England,no,0,yes,98
+ENG15,Anthony Gordon,England,-,England,no,0,yes,98
+ENG16,Phil Foden,England,-,England,no,0,yes,98
+ENG17,Bukayo Saka,England,-,England,no,0,yes,98
+ENG18,Harry Kane,England,-,England,no,0,yes,98
+ENG19,Marcus Rashford,England,-,England,no,0,yes,98
+ENG20,Ollie Watkins,England,-,England,no,0,yes,98
+CRO1,Emblem,Croatia,foil,Croatia,no,0,yes,100
+CRO2,Dominik Livakovic,Croatia,-,Croatia,no,0,yes,100
+CRO3,Duje Caleta-Car,Croatia,-,Croatia,no,0,yes,100
+CRO4,Josko Gvardiol,Croatia,-,Croatia,no,0,yes,100
+CRO5,Josip Stanisic,Croatia,-,Croatia,no,0,yes,100
+CRO6,Luka Vuskovic,Croatia,-,Croatia,no,0,yes,100
+CRO7,Josip Sutalo,Croatia,-,Croatia,no,0,yes,100
+CRO8,Kristijan Jakic,Croatia,-,Croatia,no,0,yes,100
+CRO9,Luka Modric,Croatia,-,Croatia,no,0,yes,100
+CRO10,Mateo Kovacic,Croatia,-,Croatia,no,0,yes,100
+CRO11,Martin Baturina,Croatia,-,Croatia,no,0,yes,100
+CRO12,Lovro Majer,Croatia,-,Croatia,no,0,yes,100
+CRO13,Team Photo,Croatia,-,Croatia,no,0,yes,100
+CRO14,Mario Pasalic,Croatia,-,Croatia,no,0,yes,100
+CRO15,Petar Sucic,Croatia,-,Croatia,no,0,yes,100
+CRO16,Ivan Perisic,Croatia,-,Croatia,no,0,yes,100
+CRO17,Marco Pasalic,Croatia,-,Croatia,no,0,yes,100
+CRO18,Ante Budimir,Croatia,-,Croatia,no,0,yes,100
+CRO19,Andrej Kramaric,Croatia,-,Croatia,no,0,yes,100
+CRO20,Franjo Ivanovic,Croatia,-,Croatia,no,0,yes,100
+GHA1,Emblem,Ghana,foil,Ghana,no,0,yes,102
+GHA2,Lawrence Ati Zigi,Ghana,-,Ghana,no,0,yes,102
+GHA3,Tariq Lamptey,Ghana,-,Ghana,no,0,yes,102
+GHA4,Mohammed Salisu,Ghana,-,Ghana,no,0,yes,102
+GHA5,Alidu Seidu,Ghana,-,Ghana,no,0,yes,102
+GHA6,Alexander Djiku,Ghana,-,Ghana,no,0,yes,102
+GHA7,Gideon Mensah,Ghana,-,Ghana,no,0,yes,102
+GHA8,Caleb Yirenkyi,Ghana,-,Ghana,no,0,yes,102
+GHA9,Abdul Issahaku Fatawu,Ghana,-,Ghana,no,0,yes,102
+GHA10,Thomas Partey,Ghana,-,Ghana,no,0,yes,102
+GHA11,Salis Abdul Samed,Ghana,-,Ghana,no,0,yes,102
+GHA12,Kamaldeen Sulemana,Ghana,-,Ghana,no,0,yes,102
+GHA13,Team Photo,Ghana,-,Ghana,no,0,yes,102
+GHA14,Mohammed Kudus,Ghana,-,Ghana,no,0,yes,102
+GHA15,Inaki Williams,Ghana,-,Ghana,no,0,yes,102
+GHA16,Jordan Ayew,Ghana,-,Ghana,no,0,yes,102
+GHA17,Andre Ayew,Ghana,-,Ghana,no,0,yes,102
+GHA18,Joseph Paintsil,Ghana,-,Ghana,no,0,yes,102
+GHA19,Osman Bukari,Ghana,-,Ghana,no,0,yes,102
+GHA20,Antoine Semenyo,Ghana,-,Ghana,no,0,yes,102
+PAN1,Emblem,Panama,foil,Panama,no,0,yes,104
+PAN2,Orlando Mosquera,Panama,-,Panama,no,0,yes,104
+PAN3,Luis Mejia,Panama,-,Panama,no,0,yes,104
+PAN4,Fidel Escobar,Panama,-,Panama,no,0,yes,104
+PAN5,Andres Andrade,Panama,-,Panama,no,0,yes,104
+PAN6,Michael Amir Murillo,Panama,-,Panama,no,0,yes,104
+PAN7,Eric Davis,Panama,-,Panama,no,0,yes,104
+PAN8,Jose Cordoba,Panama,-,Panama,no,0,yes,104
+PAN9,Cesar Blackman,Panama,-,Panama,no,0,yes,104
+PAN10,Cristian Martinez,Panama,-,Panama,no,0,yes,104
+PAN11,Anibal Godoy,Panama,-,Panama,no,0,yes,104
+PAN12,Adalberto Carrasquilla,Panama,-,Panama,no,0,yes,104
+PAN13,Team Photo,Panama,-,Panama,no,0,yes,104
+PAN14,Edgar Barcenas,Panama,-,Panama,no,0,yes,104
+PAN15,Carlos Harvey,Panama,-,Panama,no,0,yes,104
+PAN16,Ismael Diaz,Panama,-,Panama,no,0,yes,104
+PAN17,Jose Fajardo,Panama,-,Panama,no,0,yes,104
+PAN18,Cecilio Waterman,Panama,-,Panama,no,0,yes,104
+PAN19,Jose Luiz Rodriguez,Panama,-,Panama,no,0,yes,104
+PAN20,Alberto Quintero,Panama,-,Panama,no,0,yes,104
+FWC9,Italy 1934,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,106
+FWC10,Uruguay 1950,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,106
+FWC11,West Germany 1954,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,106
+FWC12,Brazil 1962,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,106
+FWC13,West Germany 1974,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,106
+FWC14,Argentina 1986,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+FWC15,Brazil 1994,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+FWC16,Brazil 2002,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+FWC17,Italy 2006,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+FWC18,Germany 2014,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+FWC19,Argentina 2022,FIFA World Cup History,foil,FIFA World Cup History,no,0,yes,108
+CC-US1,Lamine Yamal,Spain,Coca Cola / USA Canada,Spain,no,0,yes,110
+CC-US2,Joshua Kimmich,Germany,Coca Cola / USA Canada,Germany,no,0,yes,110
+CC-US3,Harry Kane,England,Coca Cola / USA Canada,England,no,0,yes,110
+CC-US4,Santiago Gimenez,Mexico,Coca Cola / USA Canada,Mexico,no,0,yes,110
+CC-US5,Antonee Robinson,USA,Coca Cola / USA Canada,USA,no,0,yes,110
+CC-US6,Jefferson Lerma,Colombia,Coca Cola / USA Canada,Colombia,no,0,yes,110
+CC-US7,Edson Alvarez,Mexico,Coca Cola / USA Canada,Mexico,no,0,yes,110
+CC-US8,Virgil van Dijk,Netherlands,Coca Cola / USA Canada,Netherlands,no,0,yes,110
+CC-US9,Alphonso Davies,Canada,Coca Cola / USA Canada,Canada,no,0,yes,110
+CC-US10,Weston McKennie,USA,Coca Cola / USA Canada,USA,no,0,yes,110
+CC-US11,Lautaro Martinez,Argentina,Coca Cola / USA Canada,Argentina,no,0,yes,110
+CC-US12,Gabriel Magalhaes,Brazil,Coca Cola / USA Canada,Brazil,no,0,yes,110
+CC-LAM1,Lamine Yamal,Spain,Coca Cola / Latin America,Spain,no,0,NA,1
+CC-LAM2,Joshua Kimmich,Germany,Coca Cola / Latin America,Germany,no,0,NA,1
+CC-LAM3,Harry Kane,England,Coca Cola / Latin America,England,no,0,NA,1
+CC-LAM4,Santiago Gimenez,Mexico,Coca Cola / Latin America,Mexico,no,0,NA,1
+CC-LAM5,Josko Gvardiol,Croatia,Coca Cola / Latin America,Croatia,no,0,NA,1
+CC-LAM6,Federico Valverde,Uruguay,Coca Cola / Latin America,Uruguay,no,0,NA,1
+CC-LAM7,Jefferson Lerma,Colombia,Coca Cola / Latin America,Colombia,no,0,NA,1
+CC-LAM8,Enner Valencia,Ecuador,Coca Cola / Latin America,Ecuador,no,0,NA,1
+CC-LAM9,Gabriel Magalhaes,Brazil,Coca Cola / Latin America,Brazil,no,0,NA,1
+CC-LAM10,Virgil van Dijk,Netherlands,Coca Cola / Latin America,Netherlands,no,0,NA,1
+CC-LAM11,Alphonso Davies,Canada,Coca Cola / Latin America,Canada,no,0,NA,1
+CC-LAM12,Emiliano Martinez,Argentina,Coca Cola / Latin America,Argentina,no,0,NA,1
+CC-LAM13,Raul Jimenez,Mexico,Coca Cola / Latin America,Mexico,no,0,NA,1
+CC-LAM14,Lautaro Martinez,Argentina,Coca Cola / Latin America,Argentina,no,0,NA,1
+CC-RW1,Lamine Yamal,Spain,Coca Cola / Rest of the World,Spain,no,0,NA,1
+CC-RW2,Joshua Kimmich,Germany,Coca Cola / Rest of the World,Germany,no,0,NA,1
+CC-RW3,Harry Kane,England,Coca Cola / Rest of the World,England,no,0,NA,1
+CC-RW4,Edson Alvarez,Mexico,Coca Cola / Rest of the World,Mexico,no,0,NA,1
+CC-RW5,Josko Gvardiol,Croatia,Coca Cola / Rest of the World,Croatia,no,0,NA,1
+CC-RW6,Federico Valverde,Uruguay,Coca Cola / Rest of the World,Uruguay,no,0,NA,1
+CC-RW7,Jefferson Lerma,Colombia,Coca Cola / Rest of the World,Colombia,no,0,NA,1
+CC-RW8,Enner Valencia,Ecuador,Coca Cola / Rest of the World,Ecuador,no,0,NA,1
+CC-RW9,Jordan Ayew,Ghana,Coca Cola / Rest of the World,Ghana,no,0,NA,1
+CC-RW10,Virgil van Dijk,Netherlands,Coca Cola / Rest of the World,Netherlands,no,0,NA,1
+CC-RW11,Alphonso Davies,Canada,Coca Cola / Rest of the World,Canada,no,0,NA,1
+CC-RW12,Weston McKennie,USA,Coca Cola / Rest of the World,USA,no,0,NA,1
+CC-RW13,Eduardo Camavinga,France,Coca Cola / Rest of the World,France,no,0,NA,1
+CC-RW14,Lautaro Martinez,Argentina,Coca Cola / Rest of the World,Argentina,no,0,NA,1
+CC-EU1,Lamine Yamal,Spain,Coca Cola / Europe,Spain,no,0,NA,1
+CC-EU2,Joshua Kimmich,Germany,Coca Cola / Europe,Germany,no,0,NA,1
+CC-EU3,Eduardo Camavinga,France,Coca Cola / Europe,France,no,0,NA,1
+CC-EU4,Josko Gvardiol,Croatia,Coca Cola / Europe,Croatia,no,0,NA,1
+CC-EU5,Federico Valverde,Uruguay,Coca Cola / Europe,Uruguay,no,0,NA,1
+CC-EU6,Virgil van Dijk,Netherlands,Coca Cola / Europe,Netherlands,no,0,NA,1
+CC-EU7,Alphonso Davies,Canada,Coca Cola / Europe,Canada,no,0,NA,1
+CC-EU8,Raul Jimenez,Mexico,Coca Cola / Europe,Mexico,no,0,NA,1
+CC-EU9,William Saliba,France,Coca Cola / Europe,France,no,0,NA,1
+CC-EU10,Lautaro Martinez,Argentina,Coca Cola / Europe,Argentina,no,0,NA,1
+CC-EU11,Harry Kane,England,Coca Cola / Europe,England,no,0,NA,1
+CC-EU12,Antonee Robinson,USA,Coca Cola / Europe,USA,no,0,NA,1
+ARG13MC,Team Photo,Argentina,McDonald's Exclusive,Argentina,no,0,NA,1
+AUS13MC,Team Photo,Australia,McDonald's Exclusive,Australia,no,0,NA,1
+BEL13MC,Team Photo,Belgium,McDonald's Exclusive,Belgium,no,0,NA,1
+BRA13MC,Team Photo,Brazil,McDonald's Exclusive,Brazil,no,0,NA,1
+CAN13MC,Team Photo,Canada,McDonald's Exclusive,Canada,no,0,NA,1
+CIV13MC,Team Photo,Ivory Coast,McDonald's Exclusive,Ivory Coast,no,0,NA,1
+COL13MC,Team Photo,Colombia,McDonald's Exclusive,Colombia,no,0,NA,1
+CRO13MC,Team Photo,Croatia,McDonald's Exclusive,Croatia,no,0,NA,1
+ECU13MC,Team Photo,Ecuador,McDonald's Exclusive,Ecuador,no,0,NA,1
+ENG13MC,Team Photo,England,McDonald's Exclusive,England,no,0,NA,1
+ESP13MC,Team Photo,Spain,McDonald's Exclusive,Spain,no,0,NA,1
+FRA13MC,Team Photo,France,McDonald's Exclusive,France,no,0,NA,1
+GER13MC,Team Photo,Germany,McDonald's Exclusive,Germany,no,0,NA,1
+GHA13MC,Team Photo,Ghana,McDonald's Exclusive,Ghana,no,0,NA,1
+JPN13MC,Team Photo,Japan,McDonald's Exclusive,Japan,no,0,NA,1
+KOR13MC,Team Photo,South Korea,McDonald's Exclusive,South Korea,no,0,NA,1
+RSA13MC,Team Photo,Saudi Arabia,McDonald's Exclusive,Saudi Arabia,no,0,NA,1
+MAR13MC,Team Photo,Morocco,McDonald's Exclusive,Morocco,no,0,NA,1
+MEX13MC,Team Photo,Mexico,McDonald's Exclusive,Mexico,no,0,NA,1
+NED13MC,Team Photo,Netherlands,McDonald's Exclusive,Netherlands,no,0,NA,1
+NOR13MC,Team Photo,Norway,McDonald's Exclusive,Norway,no,0,NA,1
+PAN13MC,Team Photo,Panama,McDonald's Exclusive,Panama,no,0,NA,1
+QAT13MC,Team Photo,Qatar,McDonald's Exclusive,Qatar,no,0,NA,1
+SEN13MC,Team Photo,Senegal,McDonald's Exclusive,Senegal,no,0,NA,1
+SUI13MC,Team Photo,Switzerland,McDonald's Exclusive,Switzerland,no,0,NA,1
+TUN13MC,Team Photo,Tunisia,McDonald's Exclusive,Tunisia,no,0,NA,1
+URU13MC,Team Photo,Uruguay,McDonald's Exclusive,Uruguay,no,0,NA,1
+USA13MC,Team Photo,USA,McDonald's Exclusive,USA,no,0,NA,1
+UZB13MC,Team Photo,Uzbekistan,McDonald's Exclusive,Uzbekistan,no,0,NA,1
+LM,Lionel Messi,Argentina,Extra / Base,Argentina,no,0,NA,1
+JD,Jeremy Doku,Belgium,Extra / Base,Belgium,no,0,NA,1
+VJ,Vinicius Junior,Brazil,Extra / Base,Brazil,no,0,NA,1
+AD,Alphonso Davies,Canada,Extra / Base,Canada,no,0,NA,1
+LD,Luis Diaz,Colombia,Extra / Base,Colombia,no,0,NA,1
+LMO,Luka Modric,Croatia,Extra / Base,Croatia,no,0,NA,1
+MC,Moises Caicedo,Ecuador,Extra / Base,Ecuador,no,0,NA,1
+MS,Mohamed Salah,Egypt,Extra / Base,Egypt,no,0,NA,1
+JB,Jude Bellingham,England,Extra / Base,England,no,0,NA,1
+KM,Kylian Mbappe,France,Extra / Base,France,no,0,NA,1
+FW,Florian Wirtz,Germany,Extra / Base,Germany,no,0,NA,1
+RJ,Raul Jimenez,Mexico,Extra / Base,Mexico,no,0,NA,1
+AH,Achraf Hakimi,Morocco,Extra / Base,Morocco,no,0,NA,1
+EH,Erling Haaland,Norway,Extra / Base,Norway,no,0,NA,1
+CG,Cody Gakpo,Netherlands,Extra / Base,Netherlands,no,0,NA,1
+CR,Cristiano Ronaldo,Portugal,Extra / Base,Portugal,no,0,NA,1
+HS,Heung-min Son,South Korea,Extra / Base,South Korea,no,0,NA,1
+LY,Lamine Yamal,Spain,Extra / Base,Spain,no,0,NA,1
+CP,Christian Pulisic,USA,Extra / Base,USA,no,0,NA,1
+FV,Federico Valverde,Uruguay,Extra / Base,Uruguay,no,0,NA,1
+LM-B,Lionel Messi,Argentina,Extra / Bronze,Argentina,no,0,NA,1
+JD-B,Jeremy Doku,Belgium,Extra / Bronze,Belgium,no,0,NA,1
+VJ-B,Vinicius Junior,Brazil,Extra / Bronze,Brazil,no,0,NA,1
+AD-B,Alphonso Davies,Canada,Extra / Bronze,Canada,no,0,NA,1
+LD-B,Luis Diaz,Colombia,Extra / Bronze,Colombia,no,0,NA,1
+LMO-B,Luka Modric,Croatia,Extra / Bronze,Croatia,no,0,NA,1
+MC-B,Moises Caicedo,Ecuador,Extra / Bronze,Ecuador,no,0,NA,1
+MS-B,Mohamed Salah,Egypt,Extra / Bronze,Egypt,no,0,NA,1
+JB-B,Jude Bellingham,England,Extra / Bronze,England,no,0,NA,1
+KM-B,Kylian Mbappe,France,Extra / Bronze,France,no,0,NA,1
+FW-B,Florian Wirtz,Germany,Extra / Bronze,Germany,no,0,NA,1
+RJ-B,Raul Jimenez,Mexico,Extra / Bronze,Mexico,no,0,NA,1
+AH-B,Achraf Hakimi,Morocco,Extra / Bronze,Morocco,no,0,NA,1
+EH-B,Erling Haaland,Norway,Extra / Bronze,Norway,no,0,NA,1
+CG-B,Cody Gakpo,Netherlands,Extra / Bronze,Netherlands,no,0,NA,1
+CR-B,Cristiano Ronaldo,Portugal,Extra / Bronze,Portugal,no,0,NA,1
+HS-B,Heung-min Son,South Korea,Extra / Bronze,South Korea,no,0,NA,1
+LY-B,Lamine Yamal,Spain,Extra / Bronze,Spain,no,0,NA,1
+CP-B,Christian Pulisic,USA,Extra / Bronze,USA,no,0,NA,1
+FV-B,Federico Valverde,Uruguay,Extra / Bronze,Uruguay,no,0,NA,1
+LM-S,Lionel Messi,Argentina,Extra / Silver,Argentina,no,0,NA,1
+JD-S,Jeremy Doku,Belgium,Extra / Silver,Belgium,no,0,NA,1
+VJ-S,Vinicius Junior,Brazil,Extra / Silver,Brazil,no,0,NA,1
+AD-S,Alphonso Davies,Canada,Extra / Silver,Canada,no,0,NA,1
+LD-S,Luis Diaz,Colombia,Extra / Silver,Colombia,no,0,NA,1
+LMO-S,Luka Modric,Croatia,Extra / Silver,Croatia,no,0,NA,1
+MC-S,Moises Caicedo,Ecuador,Extra / Silver,Ecuador,no,0,NA,1
+MS-S,Mohamed Salah,Egypt,Extra / Silver,Egypt,no,0,NA,1
+JB-S,Jude Bellingham,England,Extra / Silver,England,no,0,NA,1
+KM-S,Kylian Mbappe,France,Extra / Silver,France,no,0,NA,1
+FW-S,Florian Wirtz,Germany,Extra / Silver,Germany,no,0,NA,1
+RJ-S,Raul Jimenez,Mexico,Extra / Silver,Mexico,no,0,NA,1
+AH-S,Achraf Hakimi,Morocco,Extra / Silver,Morocco,no,0,NA,1
+EH-S,Erling Haaland,Norway,Extra / Silver,Norway,no,0,NA,1
+CG-S,Cody Gakpo,Netherlands,Extra / Silver,Netherlands,no,0,NA,1
+CR-S,Cristiano Ronaldo,Portugal,Extra / Silver,Portugal,no,0,NA,1
+HS-S,Heung-min Son,South Korea,Extra / Silver,South Korea,no,0,NA,1
+LY-S,Lamine Yamal,Spain,Extra / Silver,Spain,no,0,NA,1
+CP-S,Christian Pulisic,USA,Extra / Silver,USA,no,0,NA,1
+FV-S,Federico Valverde,Uruguay,Extra / Silver,Uruguay,no,0,NA,1
+LM-G,Lionel Messi,Argentina,Extra / Gold,Argentina,no,0,NA,1
+JD-G,Jeremy Doku,Belgium,Extra / Gold,Belgium,no,0,NA,1
+VJ-G,Vinicius Junior,Brazil,Extra / Gold,Brazil,no,0,NA,1
+AD-G,Alphonso Davies,Canada,Extra / Gold,Canada,no,0,NA,1
+LD-G,Luis Diaz,Colombia,Extra / Gold,Colombia,no,0,NA,1
+LMO-G,Luka Modric,Croatia,Extra / Gold,Croatia,no,0,NA,1
+MC-G,Moises Caicedo,Ecuador,Extra / Gold,Ecuador,no,0,NA,1
+MS-G,Mohamed Salah,Egypt,Extra / Gold,Egypt,no,0,NA,1
+JB-G,Jude Bellingham,England,Extra / Gold,England,no,0,NA,1
+KM-G,Kylian Mbappe,France,Extra / Gold,France,no,0,NA,1
+FW-G,Florian Wirtz,Germany,Extra / Gold,Germany,no,0,NA,1
+RJ-G,Raul Jimenez,Mexico,Extra / Gold,Mexico,no,0,NA,1
+AH-G,Achraf Hakimi,Morocco,Extra / Gold,Morocco,no,0,NA,1
+EH-G,Erling Haaland,Norway,Extra / Gold,Norway,no,0,NA,1
+CG-G,Cody Gakpo,Netherlands,Extra / Gold,Netherlands,no,0,NA,1
+CR-G,Cristiano Ronaldo,Portugal,Extra / Gold,Portugal,no,0,NA,1
+HS-G,Heung-min Son,South Korea,Extra / Gold,South Korea,no,0,NA,1
+LY-G,Lamine Yamal,Spain,Extra / Gold,Spain,no,0,NA,1
+CP-G,Christian Pulisic,USA,Extra / Gold,USA,no,0,NA,1
+FV-G,Federico Valverde,Uruguay,Extra / Gold,Uruguay,no,0,NA,1
+ESP-J1,David Raya,Spain,Update / Spain,Spain,no,0,NA,1
+ESP-J2,Marcos Llorente,Spain,Update / Spain,Spain,no,0,NA,1
+ESP-J3,Pau Cubarsi,Spain,Update / Spain,Spain,no,0,NA,1
+ESP-J4,Alejandro Grimaldo,Spain,Update / Spain,Spain,no,0,NA,1
+ESP-J5,Alex Baena,Spain,Update / Spain,Spain,no,0,NA,1
+ESP-J6,Borja Iglesias,Spain,Update / Spain,Spain,no,0,NA,1
